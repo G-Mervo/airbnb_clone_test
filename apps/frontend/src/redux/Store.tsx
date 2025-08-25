@@ -1,27 +1,30 @@
-import { combineReducers, configureStore } from "@reduxjs/toolkit";
-import formReducer from "./mainFormSlice";
-import appReducer from "./AppSlice";
-import HouseDetailSlice from "./HouseDetailSlice";
-import filterReducer from "./filterSlice";
-import bookingsReducer from "./bookingsSlice";
+import { combineReducers, configureStore } from '@reduxjs/toolkit';
+import formReducer from './mainFormSlice';
+import appReducer from './AppSlice';
+import HouseDetailSlice from './HouseDetailSlice';
+import filterReducer from './filterSlice';
+import bookingsReducer from './bookingsSlice';
 
-import CardSlice from "./CardSlice";
+import CardSlice from './CardSlice';
 import {
   createStateSyncMiddleware,
   initMessageListener,
   withReduxStateSync,
-} from "redux-state-sync";
+} from 'redux-state-sync';
 
 const stateSyncMiddleware = createStateSyncMiddleware({
   whitelist: [
-    "app/setItemId",
-    "app/setIsFavorite",
-    "app/removeUserFavListing",
-    "app/setUserFavListing",
-    "app/setUserData",
-    "bookings/addBooking",
-    "bookings/removeBooking",
-    "bookings/updateBookingStatus",
+    'app/setItemId',
+    'app/setIsFavorite',
+    'app/removeUserFavListing',
+    'app/setUserFavListing',
+    'app/setUserData',
+    'bookings/addBooking',
+    'bookings/removeBooking',
+    'bookings/updateBookingStatus',
+    'form/setDateFlexibility',
+    'form/setStartDateFlexibility',
+    'form/setEndDateFlexibility',
   ],
 });
 
@@ -34,7 +37,7 @@ export const store = configureStore({
       card: CardSlice,
       filter: filterReducer,
       bookings: bookingsReducer,
-    })
+    }),
   ),
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({

@@ -4,6 +4,8 @@ import {
   setDateFlexibility,
   setStartDateToShow,
   setEndDateToShow,
+  setSelectedStartDate,
+  setSelectedEndDate,
 } from '../../../redux/mainFormSlice';
 import { format } from 'date-fns';
 
@@ -29,6 +31,8 @@ const DayButton: React.FC<DayButtonProps> = ({
           ? 'border-black bg-black text-white'
           : 'border-gray-300 bg-white text-gray-700 hover:border-gray-400'
       }`}
+      style={{ userSelect: 'none' }}
+      type="button"
     >
       {isExactDate ? (
         // Render "Exact dates" button
@@ -52,7 +56,7 @@ const FLEXIBILITY_OPTIONS = [
   { value: 'exact', label: 'Exact dates', isExactDate: true },
   { value: '1', label: '1 day', isExactDate: false },
   { value: '2', label: '2 days', isExactDate: false },
-  { value: '3', label: '3 days', isExactDate: false },
+  { value: '3', label: ' 3 days', isExactDate: false },
   { value: '7', label: '7 days', isExactDate: false },
   { value: '14', label: '14 days', isExactDate: false },
 ];
@@ -65,6 +69,16 @@ const AddDays: React.FC = () => {
   const selectedStartDate = useSelector((store: any) => store.form.selectedStartDate);
   const selectedEndDate = useSelector((store: any) => store.form.selectedEndDate);
   const dateFlexibility = useSelector((store: any) => store.form.dateFlexibility);
+
+  // Debug logging - only in development
+  if (process.env.NODE_ENV === 'development') {
+    console.log('AddDays: Current state:', {
+      selectedStartDate,
+      selectedEndDate,
+      dateFlexibility,
+      activeOption,
+    });
+  }
 
   // Update display dates when flexibility changes
   const updateDateDisplay = React.useCallback(
@@ -113,12 +127,68 @@ const AddDays: React.FC = () => {
   */
 
   const handleOptionClick = (value: string) => {
+    if (process.env.NODE_ENV === 'development') {
+      console.log('AddDays: Button clicked with value:', value);
+    }
+
     setActiveOption(value);
     dispatch(setDateFlexibility(value));
 
-    // Only update display if dates are already selected - preserve existing dates
-    if (selectedStartDate || selectedEndDate) {
-      updateDateDisplay(value);
+    if (value === 'exact') {
+      // Reset to exact dates
+      if (selectedStartDate) {
+        dispatch(setStartDateToShow(format(selectedStartDate, 'MMM dd')));
+      }
+      if (selectedEndDate) {
+        dispatch(setEndDateToShow(format(selectedEndDate, 'MMM dd')));
+      }
+      return;
+    }
+
+    const flexibilityDays = parseInt(value);
+    const today = new Date();
+
+    if (selectedStartDate) {
+      // User has a check-in date
+      if (flexibilityDays > 0) {
+        // Positive days: auto-fill checkout date with check-in + days
+        const checkoutDate = new Date(selectedStartDate);
+        checkoutDate.setDate(checkoutDate.getDate() + flexibilityDays);
+
+        dispatch(setSelectedEndDate(checkoutDate));
+        dispatch(setEndDateToShow(format(checkoutDate, 'MMM dd')));
+
+        // Update display to show the range
+        dispatch(
+          setStartDateToShow(`${format(selectedStartDate, 'MMM dd')} +${flexibilityDays} days`),
+        );
+      } else {
+        // Negative days: adjust check-in date to today - days
+        const newCheckinDate = new Date(today);
+        newCheckinDate.setDate(newCheckinDate.getDate() + flexibilityDays);
+
+        dispatch(setSelectedStartDate(newCheckinDate));
+        dispatch(setStartDateToShow(format(newCheckinDate, 'MMM dd')));
+      }
+    } else {
+      // No check-in date selected, use today as base
+      if (flexibilityDays > 0) {
+        // Positive days: set check-in to today, checkout to today + days
+        const checkoutDate = new Date(today);
+        checkoutDate.setDate(checkoutDate.getDate() + flexibilityDays);
+
+        dispatch(setSelectedStartDate(today));
+        dispatch(setSelectedEndDate(checkoutDate));
+        dispatch(setStartDateToShow(format(today, 'MMM dd')));
+        dispatch(setEndDateToShow(format(checkoutDate, 'MMM dd')));
+      } else {
+        // Negative days: set check-in to today + days (past date)
+        const checkinDate = new Date(today);
+        checkinDate.setDate(checkinDate.getDate() + flexibilityDays);
+
+        dispatch(setSelectedStartDate(checkinDate));
+        dispatch(setStartDateToShow(format(checkinDate, 'MMM dd')));
+      }
     }
   };
 
@@ -145,7 +215,10 @@ const AddDays: React.FC = () => {
   */
 
   return (
-    <div className="w-full flex overflow-auto space-x-3 items-center justify-start px-2 1xz:px-10 1xz:py-6 py-2">
+    <div
+      className="w-full flex overflow-auto space-x-3 items-center justify-start px-2 1xz:px-10 1xz:py-6 py-2"
+      style={{ position: 'relative', zIndex: 10 }}
+    >
       {FLEXIBILITY_OPTIONS.map((option) => (
         <DayButton
           key={option.value}

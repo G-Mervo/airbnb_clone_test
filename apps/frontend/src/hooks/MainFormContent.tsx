@@ -336,19 +336,61 @@ export function handleSearch({
   }
 
   if (dateOption === 'dates') {
-    // Update display dates when search is submitted (not when calendar is clicked)
-    if (selectedStartDate) {
-      const startDateFormatted = format(selectedStartDate, 'MMM dd');
-      const flexibilityText = dateFlexibility === 'exact' ? '' : ` ±${dateFlexibility}`;
-      const startDateText = startDateFormatted + flexibilityText;
-      dispatch(setStartDateToShow(startDateText));
-    }
+    // Apply date flexibility to the actual search dates
+    let searchStartDate = selectedStartDate;
+    let searchEndDate = selectedEndDate;
 
-    if (selectedEndDate) {
-      const endDateFormatted = format(selectedEndDate, 'MMM dd');
-      const flexibilityText = dateFlexibility === 'exact' ? '' : ` ±${dateFlexibility}`;
-      const endDateText = endDateFormatted + flexibilityText;
-      dispatch(setEndDateToShow(endDateText));
+    if (dateFlexibility !== 'exact' && (selectedStartDate || selectedEndDate)) {
+      const flexibilityDays = parseInt(dateFlexibility);
+
+      if (selectedStartDate) {
+        // For check-in: allow dates within ±flexibilityDays of the selected date
+        const startDate = new Date(selectedStartDate);
+        const minStartDate = new Date(startDate);
+        minStartDate.setDate(minStartDate.getDate() - flexibilityDays);
+        const maxStartDate = new Date(startDate);
+        maxStartDate.setDate(maxStartDate.getDate() + flexibilityDays);
+
+        // Use the earliest possible start date for search
+        searchStartDate = minStartDate;
+
+        // Update display to show the range
+        const startDateText = `${format(minStartDate, 'MMM dd')} - ${format(
+          maxStartDate,
+          'MMM dd',
+        )} ±${dateFlexibility}`;
+        dispatch(setStartDateToShow(startDateText));
+      }
+
+      if (selectedEndDate) {
+        // For check-out: allow dates within ±flexibilityDays of the selected date
+        const endDate = new Date(selectedEndDate);
+        const minEndDate = new Date(endDate);
+        minEndDate.setDate(minEndDate.getDate() - flexibilityDays);
+        const maxEndDate = new Date(endDate);
+        maxEndDate.setDate(maxEndDate.getDate() + flexibilityDays);
+
+        // Use the latest possible end date for search
+        searchEndDate = maxEndDate;
+
+        // Update display to show the range
+        const endDateText = `${format(minEndDate, 'MMM dd')} - ${format(
+          maxEndDate,
+          'MMM dd',
+        )} ±${dateFlexibility}`;
+        dispatch(setEndDateToShow(endDateText));
+      }
+    } else {
+      // Exact dates - no flexibility
+      if (selectedStartDate) {
+        const startDateFormatted = format(selectedStartDate, 'MMM dd');
+        dispatch(setStartDateToShow(startDateFormatted));
+      }
+
+      if (selectedEndDate) {
+        const endDateFormatted = format(selectedEndDate, 'MMM dd');
+        dispatch(setEndDateToShow(endDateFormatted));
+      }
     }
 
     if (startDateToShow && !endDateToShow) {
