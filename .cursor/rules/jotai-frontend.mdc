@@ -1,0 +1,211 @@
+---
+globs: apps/frontend/**/*.ts,apps/frontend/**/*.tsx
+alwaysApply: false
+---
+
+# Jotai v2 Documentation for LLMs
+
+> Jotai - Primitive and flexible state management for React
+
+## Basic Usage
+
+```javascript
+import { atom, useAtom } from 'jotai';
+
+// Create primitive atom
+const countAtom = atom(0);
+
+// Use atom in component
+function Counter() {
+  const [count, setCount] = useAtom(countAtom);
+
+  return (
+    <div>
+      <h1>{count}</h1>
+      <button onClick={() => setCount((c) => c + 1)}>Increment</button>
+    </div>
+  );
+}
+```
+
+## Core Concepts
+
+- **Atoms**: Unit of state in Jotai. Can be primitive values or derived computations.
+- **No Provider Required**: Works without Provider (uses default store).
+- **Derived Atoms**: Atoms can depend on other atoms, creating a dependency graph.
+- **Async Support**: First-class support for async operations and Suspense.
+- **TypeScript First**: Built with TypeScript, excellent type inference.
+
+## Main APIs
+
+### atom
+
+Creates an atom configuration (not the value itself).
+
+```javascript
+// Primitive atom
+const nameAtom = atom('John');
+
+// Derived atom (read-only)
+const uppercaseNameAtom = atom((get) => get(nameAtom).toUpperCase());
+
+// Writable derived atom
+const countAtom = atom(
+  (get) => get(baseCountAtom),
+  (get, set, newValue) => {
+    set(baseCountAtom, newValue);
+    // Can update multiple atoms
+  },
+);
+
+// Async atom
+const userAtom = atom(async (get) => {
+  const id = get(userIdAtom);
+  const response = await fetch(`/user/${id}`);
+  return response.json();
+});
+```
+
+### useAtom
+
+Hook to read atom value and get setter function.
+
+```javascript
+const [value, setValue] = useAtom(anAtom);
+```
+
+### useAtomValue
+
+Hook to read atom value (no setter).
+
+```javascript
+const value = useAtomValue(anAtom);
+```
+
+### useSetAtom
+
+Hook to get setter function only (no re-render on updates).
+
+```javascript
+const setValue = useSetAtom(anAtom);
+```
+
+### Provider
+
+Optional component to provide a store for a subtree.
+
+```javascript
+import { Provider } from 'jotai';
+
+function App() {
+  return (
+    <Provider>
+      <Component />
+    </Provider>
+  );
+}
+```
+
+### Store
+
+Direct manipulation of atom values outside React.
+
+```javascript
+import { createStore } from 'jotai';
+
+const store = createStore();
+store.get(countAtom);
+store.set(countAtom, 5);
+store.sub(countAtom, () => {
+  console.log('countAtom changed');
+});
+```
+
+## Common Patterns
+
+### Atom Families
+
+Create atoms dynamically with parameters.
+
+```javascript
+import { atomFamily } from 'jotai/utils';
+
+const todoAtomFamily = atomFamily((id) => atom({ id, done: false }));
+const todoAtom1 = todoAtomFamily(1);
+const todoAtom2 = todoAtomFamily(2);
+```
+
+### Storage Persistence
+
+Persist atom values in localStorage.
+
+```javascript
+import { atomWithStorage } from 'jotai/utils';
+
+const darkModeAtom = atomWithStorage('darkMode', false);
+```
+
+### Async Atoms with Loadable
+
+Handle loading/error states without Suspense.
+
+```javascript
+import { loadable } from 'jotai/utils';
+
+const userAtom = atom(async () => fetchUser());
+const loadableUserAtom = loadable(userAtom);
+
+function User() {
+  const [userLoadable] = useAtom(loadableUserAtom);
+
+  if (userLoadable.state === 'loading') return <div>Loading...</div>;
+  if (userLoadable.state === 'hasError') return <div>Error!</div>;
+  return <div>{userLoadable.data.name}</div>;
+}
+```
+
+### Resettable Atoms
+
+Create atoms that can be reset to initial value.
+
+```javascript
+import { atomWithReset, useResetAtom, RESET } from 'jotai/utils';
+
+const countAtom = atomWithReset(0);
+
+function Counter() {
+  const [count, setCount] = useAtom(countAtom);
+  const reset = useResetAtom(countAtom);
+
+  return (
+    <>
+      <div>{count}</div>
+      <button onClick={() => setCount((c) => c + 1)}>+1</button>
+      <button onClick={reset}>Reset</button>
+    </>
+  );
+}
+```
+
+### Atom Effects
+
+Run side effects when atoms change.
+
+```javascript
+const anAtom = atom(0);
+anAtom.onMount = (setAtom) => {
+  console.log('Atom mounted');
+  setAtom(1); // Optional: set initial value
+
+  return () => {
+    // Optional: cleanup
+    console.log('Atom unmounted');
+  };
+};
+```
+
+## Learn More
+
+- Official docs: https://jotai.org
+- Examples: https://jotai.org/examples
+- GitHub: https://github.com/pmndrs/jotai

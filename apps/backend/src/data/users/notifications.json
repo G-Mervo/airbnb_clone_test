@@ -1,0 +1,102 @@
+[
+	{
+		"id": 1,
+		"user_id": 3,
+		"type": "booking_confirmed",
+		"title": "Booking Confirmed",
+		"message": "Your booking at Oceanview Villa has been confirmed.",
+		"related_id": 101,
+		"is_read": true,
+		"created_at": "2025-08-10T14:30:15"
+	},
+	{
+		"id": 2,
+		"user_id": 3,
+		"type": "booking_reminder",
+		"title": "Upcoming Trip",
+		"message": "Your trip to Mountain Cabin starts tomorrow!",
+		"related_id": 102,
+		"is_read": false,
+		"created_at": "2025-08-11T09:00:00"
+	},
+	{
+		"id": 3,
+		"user_id": 3,
+		"type": "new_message",
+		"title": "New Message",
+		"message": "You have a new message from Jane about your booking.",
+		"related_id": 201,
+		"is_read": false,
+		"created_at": "2025-08-12T16:45:20"
+	},
+	{
+		"id": 4,
+		"user_id": 3,
+		"type": "review_reminder",
+		"title": "Leave a Review",
+		"message": "How was your stay at Cozy Apartment? Leave a review!",
+		"related_id": 103,
+		"is_read": false,
+		"created_at": "2025-08-13T10:20:30"
+	},
+	{
+		"id": 5,
+		"user_id": 3,
+		"type": "payment_processed",
+		"title": "Payment Processed",
+		"message": "Your payment of $450 for Lakeside Cottage has been processed.",
+		"related_id": 104,
+		"is_read": true,
+		"created_at": "2025-08-09T11:15:45"
+	},
+	{
+		"id": 6,
+		"user_id": 1,
+		"type": "new_booking",
+		"title": "New Booking",
+		"message": "You have a new booking for Oceanfront Condo.",
+		"related_id": 105,
+		"is_read": false,
+		"created_at": "2025-08-13T13:10:25"
+	},
+	{
+		"id": 7,
+		"user_id": 1,
+		"type": "new_message",
+		"title": "New Message",
+		"message": "You have a new message from Alex about their upcoming stay.",
+		"related_id": 202,
+		"is_read": true,
+		"created_at": "2025-08-12T14:35:50"
+	},
+	{
+		"id": 8,
+		"user_id": 1,
+		"type": "new_review",
+		"title": "New Review",
+		"message": "Maria left a review for your property.",
+		"related_id": 301,
+		"is_read": false,
+		"created_at": "2025-08-11T11:25:40"
+	},
+	{
+		"id": 9,
+		"user_id": 2,
+		"type": "booking_cancelled",
+		"title": "Booking Cancelled",
+		"message": "A booking for Urban Loft has been cancelled.",
+		"related_id": 106,
+		"is_read": false,
+		"created_at": "2025-08-13T09:40:15"
+	},
+	{
+		"id": 10,
+		"user_id": 2,
+		"type": "payment_received",
+		"title": "Payment Received",
+		"message": "You received a payment of $350 for City Apartment.",
+		"related_id": 107,
+		"is_read": true,
+		"created_at": "2025-08-10T16:20:30"
+	}
+]

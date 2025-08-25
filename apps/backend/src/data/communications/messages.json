@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "conversation_id": 1,
+    "sender_id": 3,
+    "receiver_id": 1,
+    "content": "Hi! I'm interested in your property.",
+    "created_at": "2025-08-10T10:15:30",
+    "read": true
+  },
+  {
+    "id": 2,
+    "conversation_id": 1,
+    "sender_id": 1,
+    "receiver_id": 3,
+    "content": "Hello! Thank you for your interest. Let me know if you have any questions.",
+    "created_at": "2025-08-10T10:30:45",
+    "read": true
+  },
+  {
+    "id": 3,
+    "conversation_id": 1,
+    "sender_id": 3,
+    "receiver_id": 1,
+    "content": "Is the parking free?",
+    "created_at": "2025-08-10T14:23:15",
+    "read": false
+  },
+  {
+    "id": 4,
+    "conversation_id": 2,
+    "sender_id": 3,
+    "receiver_id": 2,
+    "content": "Hello, I'm planning a trip next month and your place looks amazing!",
+    "created_at": "2025-08-09T15:30:45",
+    "read": true
+  },
+  {
+    "id": 5,
+    "conversation_id": 2,
+    "sender_id": 2,
+    "receiver_id": 3,
+    "content": "Hi there! Thank you for your interest. The place is available next month. Do you have specific dates in mind?",
+    "created_at": "2025-08-09T16:05:12",
+    "read": true
+  },
+  {
+    "id": 6,
+    "conversation_id": 2,
+    "sender_id": 3,
+    "receiver_id": 2,
+    "content": "I'm thinking about the 15th to the 20th. Is that available?",
+    "created_at": "2025-08-09T16:30:00",
+    "read": true
+  },
+  {
+    "id": 7,
+    "conversation_id": 2,
+    "sender_id": 2,
+    "receiver_id": 3,
+    "content": "Yes, those dates are available. You can go ahead and book through the platform.",
+    "created_at": "2025-08-09T17:15:33",
+    "read": true
+  },
+  {
+    "id": 8,
+    "conversation_id": 2,
+    "sender_id": 3,
+    "receiver_id": 2,
+    "content": "Great! One more question - is WiFi included?",
+    "created_at": "2025-08-10T09:10:27",
+    "read": true
+  },
+  {
+    "id": 9,
+    "conversation_id": 2,
+    "sender_id": 2,
+    "receiver_id": 3,
+    "content": "Yes, we have high-speed WiFi throughout the property. The details will be in your confirmation email after booking.",
+    "created_at": "2025-08-10T09:45:20",
+    "read": true
+  },
+  {
+    "id": 10,
+    "conversation_id": 2,
+    "sender_id": 3,
+    "receiver_id": 2,
+    "content": "Thanks for the information!",
+    "created_at": "2025-08-11T09:45:20",
+    "read": false
+  },
+  {
+    "id": 11,
+    "conversation_id": 3,
+    "sender_id": 3,
+    "receiver_id": 4,
+    "content": "Hi, I just booked your place for next week.",
+    "created_at": "2025-08-12T16:20:10",
+    "read": true
+  },
+  {
+    "id": 12,
+    "conversation_id": 3,
+    "sender_id": 4,
+    "receiver_id": 3,
+    "content": "Great! Looking forward to hosting you. Let me know if you need any recommendations for the area.",
+    "created_at": "2025-08-12T16:45:38",
+    "read": true
+  },
+  {
+    "id": 13,
+    "conversation_id": 3,
+    "sender_id": 3,
+    "receiver_id": 4,
+    "content": "What time is check-in?",
+    "created_at": "2025-08-12T18:10:05",
+    "read": false
+  },
+  {
+    "conversation_id": 6,
+    "sender_id": 1,
+    "content": "Hi! I'm interested in your property.",
+    "message_type": "text",
+    "status": "sent",
+    "timestamp": "2025-08-16T23:13:35.020851",
+    "id": 14,
+    "created_at": "2025-08-16T23:13:35.021086",
+    "updated_at": "2025-08-16T23:13:35.021090"
+  },
+  {
+    "conversation_id": 6,
+    "sender_id": 1,
+    "content": "What's the check-in time?",
+    "message_type": "text",
+    "status": "sent",
+    "timestamp": "2025-08-16T23:13:35.021794",
+    "id": 15,
+    "created_at": "2025-08-16T23:13:35.021875",
+    "updated_at": "2025-08-16T23:13:35.021878"
+  },
+  {
+    "conversation_id": 6,
+    "sender_id": 1,
+    "content": "What's the check-in time?",
+    "message_type": "text",
+    "status": "sent",
+    "timestamp": "2025-08-16T23:27:42.901913",
+    "id": 16,
+    "created_at": "2025-08-16T23:27:42.902243",
+    "updated_at": "2025-08-16T23:27:42.902247"
+  }
+]

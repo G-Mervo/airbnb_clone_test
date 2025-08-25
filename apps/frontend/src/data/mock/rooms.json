@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1",
+    "house-title": "Entire rental unit",
+    "title_1": "Entire rental unit in Myrtle Beach, South Carolina",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "price": 185,
+    "rating": 4.8,
+    "house_rating": 4.8,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 1,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720"
+    ],
+    "description": "Beautiful beachfront rental with ocean views and easy beach access.",
+    "host": {
+      "name": "Sarah Johnson",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "joined": "2019-05-15",
+      "response_rate": 98,
+      "response_time": "within an hour"
+    },
+    "amenities": ["Beach access", "Wifi", "Kitchen", "Air conditioning", "Pool"],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "reviews": [],
+    "location": {
+      "lat": 33.6891,
+      "lng": -78.8867,
+      "address": "Myrtle Beach, SC"
+    }
+  },
+  {
+    "id": "2",
+    "house-title": "Entire condo",
+    "title_1": "Entire condo in Myrtle Beach, South Carolina",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "price": 195,
+    "rating": 4.9,
+    "house_rating": 4.9,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 1,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Modern oceanfront condo with stunning views and premium amenities.",
+    "host": {
+      "name": "Michael Brown",
+      "image": "https://randomuser.me/api/portraits/men/22.jpg",
+      "joined": "2018-11-03",
+      "response_rate": 95,
+      "response_time": "within a day"
+    },
+    "amenities": ["Ocean view", "Wifi", "Kitchen", "Air conditioning", "Balcony"],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "max_guests": 8,
+    "reviews": [],
+    "location": {
+      "lat": 33.6891,
+      "lng": -78.8867,
+      "address": "Myrtle Beach, SC"
+    }
+  },
+  {
+    "id": "3",
+    "house-title": "Entire rental unit",
+    "title_1": "Entire rental unit in Myrtle Beach, South Carolina",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "price": 175,
+    "rating": 4.7,
+    "house_rating": 4.7,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 1,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720"
+    ],
+    "description": "Cozy beachside rental perfect for families and couples.",
+    "host": {
+      "name": "Emily Davis",
+      "image": "https://randomuser.me/api/portraits/women/55.jpg",
+      "joined": "2020-03-22",
+      "response_rate": 96,
+      "response_time": "within 2 hours"
+    },
+    "amenities": ["Beach access", "Wifi", "Kitchen", "Air conditioning"],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "reviews": [],
+    "location": {
+      "lat": 33.6891,
+      "lng": -78.8867,
+      "address": "Myrtle Beach, SC"
+    }
+  },
+  {
+    "id": "4",
+    "house-title": "Entire rental unit",
+    "title_1": "Entire rental unit in Myrtle Beach, South Carolina",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "price": 210,
+    "rating": 4.8,
+    "house_rating": 4.8,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 1,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1197152161732463684/original/62aaf4c2-c9f2-4222-be73-9b5113710486.jpeg?im_w=720"
+    ],
+    "description": "Spacious beachfront unit with modern amenities and great location.",
+    "host": {
+      "name": "David Wilson",
+      "image": "https://randomuser.me/api/portraits/men/33.jpg",
+      "joined": "2019-07-10",
+      "response_rate": 99,
+      "response_time": "within an hour"
+    },
+    "amenities": ["Beach access", "Wifi", "Kitchen", "Air conditioning", "Parking"],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "reviews": [],
+    "location": {
+      "lat": 33.6891,
+      "lng": -78.8867,
+      "address": "Myrtle Beach, SC"
+    }
+  },
+  {
+    "id": "5",
+    "house-title": "Entire condo",
+    "title_1": "Entire condo in Myrtle Beach, South Carolina",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "price": 220,
+    "rating": 4.9,
+    "house_rating": 4.9,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 1,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-37498258/original/60295213-c19c-4558-a1dd-859d7050b75f.jpeg?im_w=720"
+    ],
+    "description": "Luxury oceanfront condo with premium finishes and stunning views.",
+    "host": {
+      "name": "Lisa Anderson",
+      "image": "https://randomuser.me/api/portraits/women/28.jpg",
+      "joined": "2018-12-05",
+      "response_rate": 97,
+      "response_time": "within an hour"
+    },
+    "amenities": ["Ocean view", "Wifi", "Kitchen", "Air conditioning", "Pool", "Gym"],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "max_guests": 8,
+    "reviews": [],
+    "location": {
+      "lat": 33.6891,
+      "lng": -78.8867,
+      "address": "Myrtle Beach, SC"
+    }
+  },
+  {
+    "id": "6",
+    "house-title": "Entire condo",
+    "title_1": "Entire condo in Virginia Beach, Virginia",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "price": 180,
+    "rating": 4.7,
+    "house_rating": 4.7,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 1,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595020956222549919/original/07b4f3eb-f4d1-4ffd-b72f-e319dccf66cf.jpeg?im_w=720"
+    ],
+    "description": "Beautiful beachfront condo with easy access to Virginia Beach attractions.",
+    "host": {
+      "name": "Robert Taylor",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "joined": "2019-04-18",
+      "response_rate": 94,
+      "response_time": "within 3 hours"
+    },
+    "amenities": ["Beach access", "Wifi", "Kitchen", "Air conditioning", "Balcony"],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "reviews": [],
+    "location": {
+      "lat": 36.8529,
+      "lng": -75.9780,
+      "address": "Virginia Beach, VA"
+    }
+  },
+  {
+    "id": "7",
+    "house-title": "Entire condo",
+    "title_1": "Entire condo in Virginia Beach, Virginia",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "price": 165,
+    "rating": 4.6,
+    "house_rating": 4.6,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 1,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595018744120377968/original/5c72d382-6bff-43c8-bdcf-c9e0333e4938.jpeg?im_w=720"
+    ],
+    "description": "Comfortable oceanside condo perfect for beach vacations.",
+    "host": {
+      "name": "Jennifer Miller",
+      "image": "https://randomuser.me/api/portraits/women/39.jpg",
+      "joined": "2020-01-12",
+      "response_rate": 92,
+      "response_time": "within a day"
+    },
+    "amenities": ["Beach access", "Wifi", "Kitchen", "Air conditioning"],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "reviews": [],
+    "location": {
+      "lat": 36.8529,
+      "lng": -75.9780,
+      "address": "Virginia Beach, VA"
+    }
+  },
+  {
+    "id": "8",
+    "house-title": "Entire rental unit",
+    "title_1": "Entire rental unit in Virginia Beach, Virginia",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "price": 190,
+    "rating": 4.8,
+    "house_rating": 4.8,
+    "filter": "Beach",
+    "hidden": false,
+    "section": 2,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-786133159577841633/original/55feaa09-6d07-4881-b065-ebb8ec8378a8.jpeg?im_w=720"
+    ],
+    "description": "Spacious beachfront rental with modern amenities and great location.",
+    "host": {
+      "name": "Christopher Garcia",
+      "image": "https://randomuser.me/api/portraits/men/51.jpg",
+      "joined": "2019-08-25",
+      "response_rate": 96,
+      "response_time": "within 2 hours"
+    },
+    "amenities": ["Beach access", "Wifi", "Kitchen", "Air conditioning", "Parking"],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "reviews": [],
+    "location": {
+      "lat": 36.8529,
+      "lng": -75.9780,
+      "address": "Virginia Beach, VA"
+    }
+  }
+]

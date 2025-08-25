@@ -1,0 +1,91 @@
+---
+globs: apps/frontend/**/*.ts,apps/frontend/**/*.tsx
+alwaysApply: false
+---
+
+# Chakra UI v3 Framework Context
+
+This frontend application uses **Chakra UI v3** as its component library and design system. Chakra UI is an accessible, themeable, and composable component system for building React applications.
+
+## Key Information
+
+- **Version**: Chakra UI v3 (latest)
+- **Documentation**: Available at https://chakra-ui.com/docs
+- **Component System**: Modern, accessible React components with built-in theming
+- **Styling**: Uses a constraint-based design system with style props
+
+## Documentation Resources
+
+When working with Chakra UI components, refer to these documentation sources:
+
+- **Complete Documentation**: https://chakra-ui.com/llms-full.txt
+- **Components Only**: https://chakra-ui.com/llms-components.txt
+- **Styling System**: https://chakra-ui.com/llms-styling.txt
+- **Theming Guide**: https://chakra-ui.com/llms-theming.txt
+- **Charts**: https://chakra-ui.com/llms-charts.txt
+- **Migration Guide**: https://chakra-ui.com/llms-v3-migration.txt
+
+## Usage Guidelines
+
+### Component Imports
+
+```typescript
+// Import components from @chakra-ui/react
+import { Box, Button, Text, VStack, HStack } from '@chakra-ui/react';
+```
+
+### Style Props
+
+Chakra UI uses style props for styling components:
+
+```tsx
+<Box bg='blue.500' p={4} borderRadius='md'>
+  <Text color='white' fontSize='lg'>
+    Hello Chakra
+  </Text>
+</Box>
+```
+
+### Responsive Design
+
+Use responsive arrays or objects for responsive styles:
+
+```tsx
+<Box width={['100%', '50%', '25%']} p={[2, 4, 6]}>
+  Responsive content
+</Box>
+```
+
+### Theme Usage
+
+Access theme tokens through style props:
+
+```tsx
+<Button colorScheme='blue' size='lg' variant='solid'>
+  Click me
+</Button>
+```
+
+## Best Practices
+
+1. **Use Chakra Components**: Prefer Chakra UI components over native HTML elements for consistency
+2. **Accessibility**: Chakra components are accessible by default - don't override ARIA attributes unless necessary
+3. **Theme Tokens**: Use theme tokens (colors, spacing, etc.) instead of arbitrary values
+4. **Composition**: Build complex UIs by composing simple Chakra components
+5. **Performance**: Use Chakra's built-in optimizations like lazy loading for modals and drawers
+
+## Common Components
+
+- **Layout**: Box, Flex, Grid, Stack, Container, Center
+- **Typography**: Text, Heading, Badge, Code
+- **Forms**: Input, Select, Checkbox, Radio, Switch, Textarea
+- **Feedback**: Alert, Toast, Progress, Spinner, Skeleton
+- **Overlay**: Modal, Drawer, Popover, Tooltip, Menu
+- **Navigation**: Tabs, Breadcrumb, Link, LinkOverlay
+- **Data Display**: Table, Tag, Badge, List, Stat
+
+## Notes
+
+- Always check the Chakra UI v3 documentation for the latest API and best practices
+- When migrating from v2, refer to the migration guide
+- For custom components, extend Chakra's theme system rather than creating separate styling solutions

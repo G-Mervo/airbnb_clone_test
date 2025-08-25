@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"user_id": 3,
+		"name": "Dream Vacations",
+		"description": "Places I want to visit someday",
+		"is_public": false,
+		"created_at": "2025-05-15T09:30:00Z",
+		"properties": [1, 5, 7]
+	},
+	{
+		"id": 2,
+		"user_id": 3,
+		"name": "Weekend Getaways",
+		"description": "Perfect spots for short trips",
+		"is_public": true,
+		"created_at": "2025-06-20T14:45:00Z",
+		"properties": [2, 4, 8]
+	},
+	{
+		"id": 3,
+		"user_id": 4,
+		"name": "Family Friendly",
+		"description": "Great places for family vacations",
+		"is_public": true,
+		"created_at": "2025-04-10T11:20:00Z",
+		"properties": [3, 6, 9]
+	},
+	{
+		"id": 4,
+		"user_id": 5,
+		"name": "Work Retreats",
+		"description": "Quiet places to work remotely",
+		"is_public": false,
+		"created_at": "2025-07-05T16:10:00Z",
+		"properties": [1, 4, 10]
+	},
+	{
+		"id": 5,
+		"user_id": 6,
+		"name": "Luxury Stays",
+		"description": "High-end properties for special occasions",
+		"is_public": true,
+		"created_at": "2025-03-25T13:55:00Z",
+		"properties": [5, 7, 11]
+	}
+]

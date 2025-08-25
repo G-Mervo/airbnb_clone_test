@@ -1,0 +1,61 @@
+---
+globs: apps/frontend/**/*.ts,apps/frontend/**/*.tsx
+alwaysApply: false
+---
+
+# Frontend Import Preferences
+
+When working with files in the frontend application, always follow these import conventions:
+
+## Use Absolute Imports
+
+- **Always prefer** absolute imports using the "@" alias for importing modules from within the frontend app
+- The "@" alias points to the `apps/frontend/src` directory
+- Example: `import { Button } from '@/components/Button'` instead of `import { Button } from '../components/Button'`
+
+## When to Use Relative Imports
+
+Only use relative imports sparingly in these specific cases:
+
+1. When importing from a file in the **same directory** (e.g., `import { helper } from './helper'`)
+2. When importing from a closely related module within the same feature folder
+3. When the files are tightly coupled and always move together as a unit
+
+## Examples
+
+### ✅ Good - Absolute imports
+
+```typescript
+// From any file in the frontend app
+import { Header } from '@/components/Header';
+import { useAuth } from '@/hooks/useAuth';
+import { apiClient } from '@/utils/api';
+import { HomePage } from '@/pages/HomePage';
+```
+
+### ✅ Good - Relative imports (acceptable cases)
+
+```typescript
+// From components/Button/Button.tsx
+import { ButtonProps } from './Button.types';
+import styles from './Button.module.css';
+
+// From components/search/FlightsSearch.tsx
+import { SearchFieldButton } from './SearchFieldButton';
+```
+
+### ❌ Bad - Avoid these patterns
+
+```typescript
+// Don't use relative imports across different modules
+import { Header } from '../../components/Header';
+import { useAuth } from '../../../hooks/useAuth';
+import { apiClient } from '../../../../utils/api';
+```
+
+## Benefits
+
+- More maintainable code - moving files doesn't break imports
+- Clearer import statements that show the module structure
+- Easier to understand where dependencies come from
+- Consistent codebase patterns

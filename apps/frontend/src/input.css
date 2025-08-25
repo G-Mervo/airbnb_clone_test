@@ -1,0 +1,450 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Modal z-index utilities */
+  .z-modal {
+    z-index: 99999;
+  }
+
+  .z-modal-content {
+    z-index: 100000;
+  }
+
+  /* Force modal above everything */
+  .modal-overlay {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    z-index: 99999 !important;
+    pointer-events: auto !important;
+    isolation: isolate !important;
+  }
+
+  .modal-content {
+    position: relative !important;
+    z-index: 100000 !important;
+    background: white !important;
+    isolation: isolate !important;
+  }
+
+  /* Ensure modal is above all other elements */
+  body.modal-open {
+    overflow: hidden !important;
+    position: relative !important;
+  }
+
+  /* Force all modals to be above everything */
+  [data-modal='true'] {
+    position: fixed !important;
+    z-index: 99999 !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+  }
+
+  /* High z-index for calendar modal specifically */
+  .calendar-modal-overlay {
+    z-index: 99999 !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+  }
+
+  .calendar-modal-content {
+    z-index: 100000 !important;
+    position: relative !important;
+  }
+
+  /* Force calendar modal to be above CircularSlider and search form */
+  .calendar-modal-overlay,
+  .calendar-modal-overlay * {
+    z-index: 99999 !important;
+  }
+
+  .calendar-modal-content,
+  .calendar-modal-content * {
+    z-index: 100000 !important;
+  }
+
+  /* Ensure search form components maintain sticky positioning */
+  .search-form-container {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 50 !important;
+  }
+
+  .search-form-container * {
+    position: relative !important;
+    z-index: auto !important;
+  }
+
+  /* Force calendar modal above all other modals and components */
+  .calendar-modal-overlay {
+    z-index: 999999 !important;
+  }
+
+  .calendar-modal-content {
+    z-index: 1000000 !important;
+  }
+
+  /* Ensure calendar modal appears above CircularSlider specifically */
+  .calendar-modal-overlay,
+  .calendar-modal-overlay *,
+  .calendar-modal-content,
+  .calendar-modal-content * {
+    z-index: 999999 !important;
+  }
+}
+
+/* Map price marker styles */
+.price-marker {
+  background: white;
+  color: black;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  pointer-events: auto;
+  z-index: 1000;
+  transition: transform 0.2s ease;
+}
+
+.hovered-marker {
+  background: white;
+  color: black;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  pointer-events: auto;
+  z-index: 1001;
+  transform: scale(1.08);
+  transition: transform 0.2s ease;
+}
+
+.selected-marker {
+  background: black;
+  color: white;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  pointer-events: auto;
+  z-index: 1002;
+  transform: scale(1.1);
+  transition: transform 0.2s ease;
+}
+
+/* @layer base; */
+/* Hide scrollbars in WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  display: none; /* Hide the scrollbar */
+}
+
+@layer components {
+  .halfRightColor {
+    background: linear-gradient(to right, transparent 50%, #f5f5f5 50%);
+  }
+  .halfLeftColor {
+    background: linear-gradient(to left, transparent 50%, #f5f5f5 50%);
+  }
+
+  .addBorder {
+    border: 2px solid black;
+  }
+
+  .grid-areas {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 0.5rem;
+    grid-template-areas:
+      'image1 image1 image2 image3'
+      'image1 image1 image4 image5';
+    height: 25rem; /* Set a fixed height */
+  }
+
+  .grid-area-image1,
+  .grid-area-image2,
+  .grid-area-image3,
+  .grid-area-image4,
+  .grid-area-image5 {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .grid-area-image1 {
+    grid-area: image1;
+  }
+  .grid-area-image2 {
+    grid-area: image2;
+  }
+  .grid-area-image3 {
+    grid-area: image3;
+  }
+  .grid-area-image4 {
+    grid-area: image4;
+  }
+  .grid-area-image5 {
+    grid-area: image5;
+  }
+
+  .grid-areas img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .loader {
+    width: 100%;
+    height: 24.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    background-color: #fff;
+
+    overflow: hidden;
+    animation: shimmer 1.5s linear infinite alternate;
+  }
+  /* Add this CSS to your stylesheet */
+  .blur-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 192, 203, 0));
+    filter: blur(8px); /* Adjust the blur radius as needed */
+  }
+
+  .blur-left {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    filter: blur(8px); /* Adjust the blur radius as needed */
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+  }
+
+  .loader::before {
+    content: '';
+    display: block;
+    width: 100%;
+    border-radius: 20px;
+    height: 78%;
+    background: linear-gradient(#ddd, #ddd) 0 0rem / 0% 0rem no-repeat,
+      linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.5), transparent);
+
+    background-size: 100% 100%;
+  }
+
+  .success-message {
+    color: green;
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+
+  ul.custom-list {
+    list-style: none; /* Removes default list bullets */
+    padding-left: 0; /* Optional: Removes left padding */
+  }
+
+  ul.custom-list li {
+    position: relative;
+    padding-left: 15px; /* Space for the custom bullet */
+    font-weight: lighter; /* Keeps the lighter font */
+  }
+
+  ul.custom-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 3px; /* Smaller size for the dot */
+    width: 3px; /* Smaller size for the dot */
+    background-color: #000; /* Color of the dot */
+    border-radius: 50%; /* Makes the dot circular */
+  }
+  .error-message {
+    color: red;
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+
+  .loader::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 8rem;
+    background: linear-gradient(#ddd, #ddd) 0 0.5rem / 100% 1rem no-repeat,
+      linear-gradient(#ddd, #ddd) 0 2rem / 60% 1rem no-repeat,
+      linear-gradient(#ddd, #ddd) 0 3.2rem / 55% 1rem no-repeat,
+      linear-gradient(#ddd, #ddd) 0 4.5rem / 40% 1rem no-repeat;
+  }
+
+  /* Hide Leaflet attribution control */
+  .leaflet-control-attribution {
+    display: none !important;
+  }
+
+  .btnColor {
+    background-image: radial-gradient(
+      circle,
+      rgb(255, 56, 92) 0%,
+      /* Lightest color */ rgb(230, 30, 77) 30%,
+      /* Gradually darkening */ rgb(227, 28, 95) 40%,
+      /* Midpoint */ rgb(215, 4, 102) 60%,
+      /* Darker shade */ rgb(189, 30, 89) 80%,
+      /* Darkest shade */ rgb(189, 30, 89) 100% /* Darkest shade */
+    );
+    background-position-x: 75%; /* Shifted to the right */
+    background-position-y: 50%; /* Centered vertically */
+    background-size: 150% 150%; /* Adjusted size to ensure smooth transition */
+  }
+
+  @keyframes shimmer {
+    0% {
+      opacity: 40%;
+    }
+    100% {
+      opacity: 100%;
+    }
+  }
+
+  /* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for Firefox */
+  .hide-scrollbar {
+    scrollbar-width: none;
+  }
+
+  /* Hide scrollbar for IE and Edge */
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+  }
+
+  .grid-cols-three-col {
+    grid-template-columns: repeat(3, minmax(10rem, 20.87rem));
+  }
+
+  /* Controls gutters used by listing carousels/cards */
+  :root {
+    --gutter: 46px; /* legacy */
+    --left-pad: 24px; /* carousel content left inset */
+    --right-pad: 0px; /* right should be minimal so 7 fit without cutoff */
+    --gap: 16px; /* inter-card gap */
+  }
+
+  .my-grid-cols-four-col {
+    grid-template-columns: repeat(4, minmax(10rem, 28rem));
+  }
+
+  .my-grid-cols-six-col {
+    grid-template-columns: repeat(6, minmax(10rem, 40rem));
+  }
+
+  .grid-cols-two-col {
+    grid-template-columns: repeat(2, minmax(14rem, 26.3rem));
+  }
+
+  .mobile-grid-cols-two-col {
+    grid-template-columns: repeat(2, minmax(10rem, 26.3rem));
+  }
+
+  .cssLoader {
+    width: 60px;
+    aspect-ratio: 4;
+    --_g: no-repeat radial-gradient(circle closest-side, #000 90%, #0000);
+    background: var(--_g) 0% 50%, var(--_g) 50% 50%, var(--_g) 100% 50%;
+    background-size: calc(100% / 3) 100%;
+    animation: l7 1s infinite linear;
+  }
+  @keyframes l7 {
+    33% {
+      background-size: calc(100% / 3) 0%, calc(100% / 3) 100%, calc(100% / 3) 100%;
+    }
+    50% {
+      background-size: calc(100% / 3) 100%, calc(100% / 3) 0%, calc(100% / 3) 100%;
+    }
+    66% {
+      background-size: calc(100% / 3) 100%, calc(100% / 3) 100%, calc(100% / 3) 0%;
+    }
+  }
+
+  .skeleton {
+    background: linear-gradient(-90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: skeleton-loading 1.5s infinite;
+  }
+
+  @keyframes skeleton-loading {
+    0% {
+      background-position: 200% 0;
+    }
+    100% {
+      background-position: -200% 0;
+    }
+  }
+
+  .carousel-image {
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+    flex-shrink: 0;
+    aspect-ratio: 16/10;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-color: lightgray;
+  }
+
+  .skeleton-item {
+    max-height: 100%;
+    width: 100%;
+  }
+}

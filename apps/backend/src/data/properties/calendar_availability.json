@@ -1,0 +1,82 @@
+[
+	{
+		"property_id": 1,
+		"blocked_dates": [
+			{
+				"start_date": "2025-09-01",
+				"end_date": "2025-09-05",
+				"reason": "Maintenance"
+			},
+			{
+				"start_date": "2025-10-10",
+				"end_date": "2025-10-15",
+				"reason": "Owner stay"
+			},
+			{
+				"start_date": "2025-12-24",
+				"end_date": "2025-12-26",
+				"reason": "Holiday"
+			}
+		]
+	},
+	{
+		"property_id": 2,
+		"blocked_dates": [
+			{
+				"start_date": "2025-08-20",
+				"end_date": "2025-08-25",
+				"reason": "Renovation"
+			},
+			{
+				"start_date": "2025-11-22",
+				"end_date": "2025-11-28",
+				"reason": "Personal use"
+			}
+		]
+	},
+	{
+		"property_id": 3,
+		"blocked_dates": [
+			{
+				"start_date": "2025-09-15",
+				"end_date": "2025-09-20",
+				"reason": "Deep cleaning"
+			},
+			{
+				"start_date": "2025-12-20",
+				"end_date": "2025-12-31",
+				"reason": "Holiday season"
+			}
+		]
+	},
+	{
+		"property_id": 4,
+		"blocked_dates": [
+			{
+				"start_date": "2025-10-01",
+				"end_date": "2025-10-10",
+				"reason": "Owner vacation"
+			}
+		]
+	},
+	{
+		"property_id": 5,
+		"blocked_dates": [
+			{
+				"start_date": "2025-08-15",
+				"end_date": "2025-08-18",
+				"reason": "Maintenance"
+			},
+			{
+				"start_date": "2025-09-30",
+				"end_date": "2025-10-05",
+				"reason": "Special event"
+			},
+			{
+				"start_date": "2025-12-25",
+				"end_date": "2026-01-02",
+				"reason": "Holiday season"
+			}
+		]
+	}
+]

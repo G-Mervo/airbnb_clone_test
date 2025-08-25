@@ -1,0 +1,13 @@
+packages:
+  - apps/*
+  - libs/*
+
+onlyBuiltDependencies:
+  - '@maplibre/maplibre-gl-native'
+  - '@swc/core'
+  - canvas
+  - ejs
+  - esbuild
+  - nx
+  - sharp
+  - sqlite3

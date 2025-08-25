@@ -1,0 +1,3925 @@
+[
+  {
+    "id": "1",
+    "section": 1,
+    "property_name": "Oceanfront Condo with Stunning Views",
+    "title_1": "Beautiful beachfront condo with direct ocean access",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "state": "SC",
+    "price": 285,
+    "rating": 4.87,
+    "house_rating": 4.87,
+    "filter": "Beach",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720"
+    ],
+    "description": "Perfect for families seeking the ultimate beach vacation experience with panoramic ocean views.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Self check-in",
+      "Washer"
+    ],
+    "location": {
+      "lat": 33.6891,
+      "lng": -78.8867,
+      "address": "Ocean Boulevard, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Sarah Johnson",
+      "image": "https://randomuser.me/api/portraits/women/32.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2019-05-15",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "2",
+    "section": 1,
+    "property_name": "Beachfront Condo with Private Balcony",
+    "title_1": "Spacious condo with private balcony overlooking ocean",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "state": "SC",
+    "price": 195,
+    "rating": 4.72,
+    "house_rating": 4.72,
+    "filter": "Beach",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-37498258/original/60295213-c19c-4558-a1dd-859d7050b75f.jpeg?im_w=720"
+    ],
+    "description": "Enjoy morning coffee with breathtaking sunrise views from your private balcony.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Washer",
+      "Hair dryer",
+      "Heating"
+    ],
+    "location": {
+      "lat": 33.695,
+      "lng": -78.88,
+      "address": "Shore Drive, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 10,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Mike Thompson",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-08-22",
+      "responseRate": 95,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "3",
+    "section": 1,
+    "property_name": "Modern Beach Rental with Pool Access",
+    "title_1": "Contemporary rental with resort amenities",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "state": "SC",
+    "price": 165,
+    "rating": 4.85,
+    "house_rating": 4.85,
+    "filter": "Amazing pools",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1197152161732463684/original/62aaf4c2-c9f2-4222-be73-9b5113710486.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720"
+    ],
+    "description": "Access to resort-style amenities including pool, hot tub, and fitness center.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1.5,
+    "max_guests": 4,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Kitchen",
+      "Air conditioning",
+      "Gym",
+      "Hot tub",
+      "Free parking",
+      "Self check-in",
+      "BBQ grill"
+    ],
+    "location": {
+      "lat": 33.702,
+      "lng": -78.885,
+      "address": "Coastal Grand Circle, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 7,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Jennifer Davis",
+      "image": "https://randomuser.me/api/portraits/women/28.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-03-10",
+      "responseRate": 98,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "4",
+    "section": 1,
+    "property_name": "Luxury Beachfront Villa with Hot Tub",
+    "title_1": "Upscale villa with private hot tub and beach access",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "state": "SC",
+    "price": 425,
+    "rating": 4.93,
+    "house_rating": 4.93,
+    "filter": "Luxe",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1197152161732463684/original/62aaf4c2-c9f2-4222-be73-9b5113710486.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Features private hot tub, gourmet kitchen, and direct beach access. Perfect for special occasions.",
+    "bedrooms": 4,
+    "beds": 5,
+    "bathrooms": 3,
+    "max_guests": 8,
+    "amenities": [
+      "Hot tub",
+      "WiFi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "BBQ grill",
+      "Self check-in",
+      "Indoor fireplace",
+      "Dryer"
+    ],
+    "location": {
+      "lat": 33.68,
+      "lng": -78.89,
+      "address": "Grand Strand Boulevard, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 8,
+      "children": 3,
+      "infants": 2,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Robert Wilson",
+      "image": "https://randomuser.me/api/portraits/men/52.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-06-18",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "5",
+    "section": 1,
+    "property_name": "Charming Beach House with Garden",
+    "title_1": "Quaint beach house with landscaped garden",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "state": "SC",
+    "price": 225,
+    "rating": 4.65,
+    "house_rating": 4.65,
+    "filter": "Beach",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-37498258/original/60295213-c19c-4558-a1dd-859d7050b75f.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1197152161732463684/original/62aaf4c2-c9f2-4222-be73-9b5113710486.jpeg?im_w=720"
+    ],
+    "description": "Beautiful outdoor seating area. Walking distance to pier and boardwalk.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Beach access",
+      "BBQ grill",
+      "TV"
+    ],
+    "location": {
+      "lat": 33.675,
+      "lng": -78.882,
+      "address": "Kings Highway, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 2,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Lisa Martinez",
+      "image": "https://randomuser.me/api/portraits/women/35.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2021-04-12",
+      "responseRate": 88,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 3,
+    "sleep_bed_1_link": "https://a0.muscache.com/im/pictures/hosting/Hosting-1298592739175357149/original/9d8f72fd-649b-4c60-92c8-147f7f9424e6.png?im_w=480"
+  },
+  {
+    "id": "6",
+    "section": 1,
+    "property_name": "Cozy Cottage Near Broadway at the Beach",
+    "title_1": "Comfortable cottage near popular attractions",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "state": "SC",
+    "price": 135,
+    "rating": 4.58,
+    "house_rating": 4.58,
+    "filter": "Trending",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-37498258/original/60295213-c19c-4558-a1dd-859d7050b75f.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Perfect base for exploring Myrtle Beach entertainment and attractions.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "TV", "Washer"],
+    "location": {
+      "lat": 33.71,
+      "lng": -78.875,
+      "address": "21st Avenue North, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 7,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "David Brown",
+      "image": "https://randomuser.me/api/portraits/men/38.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-11-05",
+      "responseRate": 92,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "7",
+    "section": 1,
+    "property_name": "Stylish Apartment with Ocean Glimpses",
+    "title_1": "Modern apartment with partial ocean views",
+    "city": "Myrtle Beach",
+    "country": "United States",
+    "state": "SC",
+    "price": 115,
+    "rating": 4.74,
+    "house_rating": 4.74,
+    "filter": "Beach",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1197152161732463684/original/62aaf4c2-c9f2-4222-be73-9b5113710486.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-37498258/original/60295213-c19c-4558-a1dd-859d7050b75f.jpeg?im_w=720"
+    ],
+    "description": "Contemporary amenities and great value for beach vacation.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Beach access",
+      "Self check-in"
+    ],
+    "location": {
+      "lat": 33.685,
+      "lng": -78.878,
+      "address": "Glenns Bay Road, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 5,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Amanda Garcia",
+      "image": "https://randomuser.me/api/portraits/women/42.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2019-09-14",
+      "responseRate": 96,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "8",
+    "section": 7,
+    "property_name": "Oceanfront Condo with Private Deck",
+    "title_1": "Beautiful condo with private deck and ocean views",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "state": "VA",
+    "price": 275,
+    "rating": 4.89,
+    "house_rating": 4.89,
+    "filter": "Beach",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595020956222549919/original/07b4f3eb-f4d1-4ffd-b72f-e319dccf66cf.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595018744120377968/original/5c72d382-6bff-43c8-bdcf-c9e0333e4938.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-786133159577841633/original/55feaa09-6d07-4881-b065-ebb8ec8378a8.jpeg?im_w=720"
+    ],
+    "description": "Direct beach access and resort amenities with panoramic ocean views.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Free parking",
+      "Self check-in",
+      "Hot tub"
+    ],
+    "location": {
+      "lat": 36.8529,
+      "lng": -75.978,
+      "address": "Atlantic Avenue, Virginia Beach, VA"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Chris Anderson",
+      "image": "https://randomuser.me/api/portraits/men/29.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-07-22",
+      "responseRate": 99,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "9",
+    "section": 7,
+    "property_name": "Modern Beach Retreat with Pool Access",
+    "title_1": "Contemporary condo near Virginia Beach boardwalk",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "state": "VA",
+    "price": 185,
+    "rating": 4.76,
+    "house_rating": 4.76,
+    "filter": "Amazing pools",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595018744120377968/original/5c72d382-6bff-43c8-bdcf-c9e0333e4938.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0301cd61-e9d8-44f1-9eac-72fe82d4c308.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595020956222549919/original/07b4f3eb-f4d1-4ffd-b72f-e319dccf66cf.jpeg?im_w=720"
+    ],
+    "description": "Access to outdoor pool and fitness center. Steps from the boardwalk.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Gym",
+      "Free parking",
+      "Beach access",
+      "TV"
+    ],
+    "location": {
+      "lat": 36.86,
+      "lng": -75.975,
+      "address": "Oceanfront Drive, Virginia Beach, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Rachel White",
+      "image": "https://randomuser.me/api/portraits/women/26.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-05-18",
+      "responseRate": 94,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "10",
+    "section": 7,
+    "property_name": "Spacious Family Rental Near Boardwalk",
+    "title_1": "Large rental perfect for families",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "state": "VA",
+    "price": 225,
+    "rating": 4.82,
+    "house_rating": 4.82,
+    "filter": "Family friendly",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-786133159577841633/original/55feaa09-6d07-4881-b065-ebb8ec8378a8.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595020956222549919/original/07b4f3eb-f4d1-4ffd-b72f-e319dccf66cf.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Njc1ODEwODkwNzkwODgwNg==/original/c65bdf1e-aaf7-4222-a765-c24973e3397d.jpeg?im_w=720"
+    ],
+    "description": "Easy access to Virginia Beach boardwalk attractions and restaurants.",
+    "bedrooms": 4,
+    "beds": 4,
+    "bathrooms": 3,
+    "max_guests": 8,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Beach access",
+      "BBQ grill",
+      "TV",
+      "Washer"
+    ],
+    "location": {
+      "lat": 36.845,
+      "lng": -75.98,
+      "address": "Pacific Avenue, Virginia Beach, VA"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 8,
+      "children": 3,
+      "infants": 2,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Kevin Johnson",
+      "image": "https://randomuser.me/api/portraits/men/41.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-11-30",
+      "responseRate": 97,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "11",
+    "section": 7,
+    "property_name": "Elegant Beachside Condo with Balcony",
+    "title_1": "Sophisticated condo with furnished balcony",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "state": "VA",
+    "price": 295,
+    "rating": 4.91,
+    "house_rating": 4.91,
+    "filter": "Luxe",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/0301cd61-e9d8-44f1-9eac-72fe82d4c308.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595018744120377968/original/5c72d382-6bff-43c8-bdcf-c9e0333e4938.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-786133159577841633/original/55feaa09-6d07-4881-b065-ebb8ec8378a8.jpeg?im_w=720"
+    ],
+    "description": "Upscale amenities ideal for romantic getaways.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Free parking",
+      "Self check-in",
+      "Hot tub"
+    ],
+    "location": {
+      "lat": 36.865,
+      "lng": -75.97,
+      "address": "Shore Drive, Virginia Beach, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 7,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Patricia Miller",
+      "image": "https://randomuser.me/api/portraits/women/48.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2016-08-14",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English", "French"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "12",
+    "section": 7,
+    "property_name": "Cozy Beach Cottage with Garden View",
+    "title_1": "Charming cottage with beautiful garden setting",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "state": "VA",
+    "price": 155,
+    "rating": 4.68,
+    "house_rating": 4.68,
+    "filter": "Trending",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Njc1ODEwODkwNzkwODgwNg==/original/c65bdf1e-aaf7-4222-a765-c24973e3397d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0301cd61-e9d8-44f1-9eac-72fe82d4c308.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595020956222549919/original/07b4f3eb-f4d1-4ffd-b72f-e319dccf66cf.jpeg?im_w=720"
+    ],
+    "description": "Short walk to the beach and local attractions.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1.5,
+    "max_guests": 4,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "BBQ grill", "TV"],
+    "location": {
+      "lat": 36.84,
+      "lng": -75.985,
+      "address": "Norfolk Avenue, Virginia Beach, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 8,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Mark Taylor",
+      "image": "https://randomuser.me/api/portraits/men/33.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2021-02-28",
+      "responseRate": 89,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "13",
+    "section": 7,
+    "property_name": "Budget-Friendly Apartment Near Beach",
+    "title_1": "Affordable and clean apartment with beach access",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "state": "VA",
+    "price": 95,
+    "rating": 4.52,
+    "house_rating": 4.52,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595018744120377968/original/5c72d382-6bff-43c8-bdcf-c9e0333e4938.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Njc1ODEwODkwNzkwODgwNg==/original/c65bdf1e-aaf7-4222-a765-c24973e3397d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-786133159577841633/original/55feaa09-6d07-4881-b065-ebb8ec8378a8.jpeg?im_w=720"
+    ],
+    "description": "Perfect for budget-conscious travelers who want beach access.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "Beach access"],
+    "location": {
+      "lat": 36.85,
+      "lng": -75.982,
+      "address": "Virginia Beach Boulevard, Virginia Beach, VA"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 5,
+      "checkInTime": "2:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Susan Lee",
+      "image": "https://randomuser.me/api/portraits/women/39.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-10-12",
+      "responseRate": 85,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "14",
+    "section": 7,
+    "property_name": "Stylish Condo with Ocean Views",
+    "title_1": "Modern condo with spectacular ocean views",
+    "city": "Virginia Beach",
+    "country": "United States",
+    "state": "VA",
+    "price": 315,
+    "rating": 4.86,
+    "house_rating": 4.86,
+    "filter": "Beach",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-786133159577841633/original/55feaa09-6d07-4881-b065-ebb8ec8378a8.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-595020956222549919/original/07b4f3eb-f4d1-4ffd-b72f-e319dccf66cf.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/0301cd61-e9d8-44f1-9eac-72fe82d4c308.jpg?im_w=720"
+    ],
+    "description": "Floor-to-ceiling windows recently renovated with premium finishes.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2.5,
+    "max_guests": 6,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Free parking",
+      "Self check-in",
+      "TV",
+      "Washer"
+    ],
+    "location": {
+      "lat": 36.835,
+      "lng": -75.975,
+      "address": "Rudee Point Road, Virginia Beach, VA"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 12,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 2,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Michael Davis",
+      "image": "https://randomuser.me/api/portraits/men/47.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-01-20",
+      "responseRate": 98,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "15",
+    "section": 3,
+    "property_name": "Beachfront Condo with Stunning Bay Views",
+    "title_1": "Modern condo with panoramic bay and ocean views",
+    "city": "Ocean City",
+    "country": "United States",
+    "state": "MD",
+    "price": 245,
+    "rating": 4.84,
+    "house_rating": 4.84,
+    "filter": "Beach",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48198098/original/9fc9701a-91bb-4a5b-9714-e0cb4b26ae29.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1121660940136154511/original/57ad8cd2-77fe-4c10-94fd-b43f9f2692da.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1198880465330332150/original/f8b381d9-1c0b-4542-8859-3b079ab7c4b3.jpeg?im_w=720"
+    ],
+    "description": "Perfect location steps from the beach and boardwalk attractions.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Free parking",
+      "TV",
+      "Self check-in"
+    ],
+    "location": {
+      "lat": 38.3365,
+      "lng": -75.0849,
+      "address": "Coastal Highway, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Jennifer Clark",
+      "image": "https://randomuser.me/api/portraits/women/31.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-04-15",
+      "responseRate": 96,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "16",
+    "section": 3,
+    "property_name": "Oceanfront High-Rise with Pool Access",
+    "title_1": "Luxury high-rise condo with resort amenities",
+    "city": "Ocean City",
+    "country": "United States",
+    "state": "MD",
+    "price": 285,
+    "rating": 4.79,
+    "house_rating": 4.79,
+    "filter": "Amazing pools",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1121660940136154511/original/57ad8cd2-77fe-4c10-94fd-b43f9f2692da.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/b676c1ff-76c3-42d4-b195-af07e093641d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48198098/original/9fc9701a-91bb-4a5b-9714-e0cb4b26ae29.jpeg?im_w=720"
+    ],
+    "description": "Indoor and outdoor pools, fitness center, and direct beach access.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Gym",
+      "Beach access",
+      "Free parking",
+      "Hot tub"
+    ],
+    "location": {
+      "lat": 38.34,
+      "lng": -75.08,
+      "address": "Baltimore Avenue, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Robert Evans",
+      "image": "https://randomuser.me/api/portraits/men/44.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-06-08",
+      "responseRate": 91,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "17",
+    "section": 3,
+    "property_name": "Charming Beach House with Deck",
+    "title_1": "Cozy beach house with furnished deck",
+    "city": "Ocean City",
+    "country": "United States",
+    "state": "MD",
+    "price": 195,
+    "rating": 4.71,
+    "house_rating": 4.71,
+    "filter": "Beach",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1198880465330332150/original/f8b381d9-1c0b-4542-8859-3b079ab7c4b3.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48198098/original/9fc9701a-91bb-4a5b-9714-e0cb4b26ae29.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1442172034000384968/original/6a187418-d072-4149-9118-b16410a86d81.jpeg?im_w=720"
+    ],
+    "description": "Perfect for relaxing evenings on the deck after beach days.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Free parking",
+      "BBQ grill",
+      "TV"
+    ],
+    "location": {
+      "lat": 38.33,
+      "lng": -75.09,
+      "address": "Philadelphia Avenue, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 12,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Lisa Rodriguez",
+      "image": "https://randomuser.me/api/portraits/women/37.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-09-12",
+      "responseRate": 99,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "18",
+    "section": 3,
+    "property_name": "Budget-Friendly Condo Near Boardwalk",
+    "title_1": "Affordable condo with easy boardwalk access",
+    "city": "Ocean City",
+    "country": "United States",
+    "state": "MD",
+    "price": 125,
+    "rating": 4.55,
+    "house_rating": 4.55,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/b676c1ff-76c3-42d4-b195-af07e093641d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1198880465330332150/original/f8b381d9-1c0b-4542-8859-3b079ab7c4b3.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1121660940136154511/original/57ad8cd2-77fe-4c10-94fd-b43f9f2692da.jpeg?im_w=720"
+    ],
+    "description": "Great for families on a budget who want boardwalk fun.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Beach access", "Free parking"],
+    "location": {
+      "lat": 38.345,
+      "lng": -75.075,
+      "address": "Ocean Gateway, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 7,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Thomas Wilson",
+      "image": "https://randomuser.me/api/portraits/men/36.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-07-25",
+      "responseRate": 87,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "19",
+    "section": 3,
+    "property_name": "Modern Bayfront Condo with Marina Views",
+    "title_1": "Contemporary condo overlooking the marina",
+    "city": "Ocean City",
+    "country": "United States",
+    "state": "MD",
+    "price": 215,
+    "rating": 4.88,
+    "house_rating": 4.88,
+    "filter": "Waterfront",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1442172034000384968/original/6a187418-d072-4149-9118-b16410a86d81.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/b676c1ff-76c3-42d4-b195-af07e093641d.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48198098/original/9fc9701a-91bb-4a5b-9714-e0cb4b26ae29.jpeg?im_w=720"
+    ],
+    "description": "Watch boats come and go from your private balcony.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Waterfront",
+      "Free parking",
+      "TV",
+      "Self check-in"
+    ],
+    "location": {
+      "lat": 38.32,
+      "lng": -75.095,
+      "address": "Dorchester Street, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Karen Brown",
+      "image": "https://randomuser.me/api/portraits/women/43.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-11-20",
+      "responseRate": 98,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "20",
+    "section": 3,
+    "property_name": "Family-Friendly Townhouse with Garage",
+    "title_1": "Spacious townhouse perfect for large families",
+    "city": "Ocean City",
+    "country": "United States",
+    "state": "MD",
+    "price": 265,
+    "rating": 4.73,
+    "house_rating": 4.73,
+    "filter": "Family friendly",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48198098/original/9fc9701a-91bb-4a5b-9714-e0cb4b26ae29.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1442172034000384968/original/6a187418-d072-4149-9118-b16410a86d81.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1198880465330332150/original/f8b381d9-1c0b-4542-8859-3b079ab7c4b3.jpeg?im_w=720"
+    ],
+    "description": "Multiple bedrooms and private garage for beach equipment storage.",
+    "bedrooms": 4,
+    "beds": 5,
+    "bathrooms": 3,
+    "max_guests": 8,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Free parking",
+      "BBQ grill",
+      "TV",
+      "Washer"
+    ],
+    "location": {
+      "lat": 38.315,
+      "lng": -75.1,
+      "address": "Talbot Street, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 8,
+      "children": 4,
+      "infants": 2,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Steven Garcia",
+      "image": "https://randomuser.me/api/portraits/men/49.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-12-03",
+      "responseRate": 93,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "21",
+    "section": 3,
+    "property_name": "Cozy Studio with Beach Views",
+    "title_1": "Intimate studio perfect for couples",
+    "city": "Ocean City",
+    "country": "United States",
+    "state": "MD",
+    "price": 85,
+    "rating": 4.62,
+    "house_rating": 4.62,
+    "filter": "Beach",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1121660940136154511/original/57ad8cd2-77fe-4c10-94fd-b43f9f2692da.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48198098/original/9fc9701a-91bb-4a5b-9714-e0cb4b26ae29.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/b676c1ff-76c3-42d4-b195-af07e093641d.jpg?im_w=720"
+    ],
+    "description": "Everything you need for a romantic beach getaway.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Beach access", "Free parking"],
+    "location": {
+      "lat": 38.35,
+      "lng": -75.07,
+      "address": "Wicomico Street, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 5,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 0,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Michelle Davis",
+      "image": "https://randomuser.me/api/portraits/women/29.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2021-03-18",
+      "responseRate": 90,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "22",
+    "section": 4,
+    "property_name": "Luxury Townhouse Near Disney World",
+    "title_1": "Upscale townhouse minutes from Disney parks",
+    "city": "Kissimmee",
+    "country": "United States",
+    "state": "FL",
+    "price": 385,
+    "rating": 4.92,
+    "house_rating": 4.92,
+    "filter": "Luxe",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-609656819065909602/original/e31972d4-3b43-4e6e-9c80-e1109b98941f.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1475787342280042665/original/5625e365-590e-4e30-9937-e9c8e91f7b5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzgwNzc5NDY0NTMwNTc5Nw%3D%3D/original/7bd99c07-9cc0-43f8-a7da-2d8e65f65d77.jpeg?im_w=720"
+    ],
+    "description": "Resort-style amenities including private pool and game room. Perfect for Disney vacations.",
+    "bedrooms": 5,
+    "beds": 6,
+    "bathrooms": 4,
+    "max_guests": 12,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Hot tub",
+      "BBQ grill",
+      "Game room"
+    ],
+    "location": {
+      "lat": 28.2917,
+      "lng": -81.4076,
+      "address": "Champions Gate Boulevard, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 4,
+      "maximumStay": 21,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 12,
+      "children": 6,
+      "infants": 3,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Maria Lopez",
+      "image": "https://randomuser.me/api/portraits/women/34.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-02-28",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "23",
+    "section": 4,
+    "property_name": "Family Resort Home with Private Pool",
+    "title_1": "Spacious home in gated resort community",
+    "city": "Kissimmee",
+    "country": "United States",
+    "state": "FL",
+    "price": 295,
+    "rating": 4.81,
+    "house_rating": 4.81,
+    "filter": "Amazing pools",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1475787342280042665/original/5625e365-590e-4e30-9937-e9c8e91f7b5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1395266309430078875/original/808709ca-add1-4503-b7ef-e7164ec58271.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-609656819065909602/original/e31972d4-3b43-4e6e-9c80-e1109b98941f.jpeg?im_w=720"
+    ],
+    "description": "Resort clubhouse, water park access, and championship golf course nearby.",
+    "bedrooms": 4,
+    "beds": 4,
+    "bathrooms": 3,
+    "max_guests": 8,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Hot tub",
+      "Game room",
+      "TV"
+    ],
+    "location": {
+      "lat": 28.31,
+      "lng": -81.38,
+      "address": "Reunion Boulevard, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 8,
+      "children": 4,
+      "infants": 2,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "James Rodriguez",
+      "image": "https://randomuser.me/api/portraits/men/40.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-08-15",
+      "responseRate": 95,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "24",
+    "section": 4,
+    "property_name": "Modern Townhouse with Game Room",
+    "title_1": "Contemporary townhouse with entertainment area",
+    "city": "Kissimmee",
+    "country": "United States",
+    "state": "FL",
+    "price": 225,
+    "rating": 4.76,
+    "house_rating": 4.76,
+    "filter": "Family friendly",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzgwNzc5NDY0NTMwNTc5Nw%3D%3D/original/7bd99c07-9cc0-43f8-a7da-2d8e65f65d77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1475787342280042665/original/5625e365-590e-4e30-9937-e9c8e91f7b5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDk3NTA5MjQwNTk1ODUzNQ==/original/a114a1a0-1fc6-4d28-afed-9c2af7d0804b.jpeg?im_w=720"
+    ],
+    "description": "Pool table, arcade games, and spacious living areas for family fun.",
+    "bedrooms": 3,
+    "beds": 4,
+    "bathrooms": 2.5,
+    "max_guests": 8,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Game room",
+      "Pool table",
+      "TV",
+      "Washer"
+    ],
+    "location": {
+      "lat": 28.28,
+      "lng": -81.42,
+      "address": "Old Lake Wilson Road, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 8,
+      "children": 4,
+      "infants": 2,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Linda Martinez",
+      "image": "https://randomuser.me/api/portraits/women/45.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-05-10",
+      "responseRate": 97,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "25",
+    "section": 4,
+    "property_name": "Elegant Condo Near Universal Studios",
+    "title_1": "Sophisticated condo with resort amenities",
+    "city": "Winter Garden",
+    "country": "United States",
+    "state": "FL",
+    "price": 185,
+    "rating": 4.68,
+    "house_rating": 4.68,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1395266309430078875/original/808709ca-add1-4503-b7ef-e7164ec58271.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzgwNzc5NDY0NTMwNTc5Nw%3D%3D/original/7bd99c07-9cc0-43f8-a7da-2d8e65f65d77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-609656819065909602/original/e31972d4-3b43-4e6e-9c80-e1109b98941f.jpeg?im_w=720"
+    ],
+    "description": "Close to Universal Studios and Disney World with community pool access.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["Pool", "Wifi", "Kitchen", "Air conditioning", "Free parking", "Gym", "TV"],
+    "location": {
+      "lat": 28.55,
+      "lng": -81.6,
+      "address": "Flamingo Crossings Boulevard, Winter Garden, FL"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 7,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Carlos Hernandez",
+      "image": "https://randomuser.me/api/portraits/men/35.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-12-08",
+      "responseRate": 92,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "26",
+    "section": 4,
+    "property_name": "Cozy Apartment Near Disney Springs",
+    "title_1": "Comfortable apartment with Disney shuttle",
+    "city": "Kissimmee",
+    "country": "United States",
+    "state": "FL",
+    "price": 135,
+    "rating": 4.59,
+    "house_rating": 4.59,
+    "filter": "Trending",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDk3NTA5MjQwNTk1ODUzNQ==/original/a114a1a0-1fc6-4d28-afed-9c2af7d0804b.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1395266309430078875/original/808709ca-add1-4503-b7ef-e7164ec58271.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1475787342280042665/original/5625e365-590e-4e30-9937-e9c8e91f7b5d.jpeg?im_w=720"
+    ],
+    "description": "Shuttle service to Disney parks and close to Disney Springs shopping.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "Pool", "TV"],
+    "location": {
+      "lat": 28.32,
+      "lng": -81.51,
+      "address": "World Center Drive, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 8,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Sandra Johnson",
+      "image": "https://randomuser.me/api/portraits/women/41.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-11-22",
+      "responseRate": 88,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "27",
+    "section": 4,
+    "property_name": "Spacious Villa with Private Spa",
+    "title_1": "Luxury villa featuring private spa and pool",
+    "city": "Kissimmee",
+    "country": "United States",
+    "state": "FL",
+    "price": 485,
+    "rating": 4.95,
+    "house_rating": 4.95,
+    "filter": "Luxe",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1475787342280042665/original/5625e365-590e-4e30-9937-e9c8e91f7b5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-609656819065909602/original/e31972d4-3b43-4e6e-9c80-e1109b98941f.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDk3NTA5MjQwNTk1ODUzNQ==/original/a114a1a0-1fc6-4d28-afed-9c2af7d0804b.jpeg?im_w=720"
+    ],
+    "description": "Ultimate luxury with private spa, heated pool, and concierge services.",
+    "bedrooms": 6,
+    "beds": 8,
+    "bathrooms": 5,
+    "max_guests": 14,
+    "amenities": [
+      "Pool",
+      "Hot tub",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Gym",
+      "Spa"
+    ],
+    "location": {
+      "lat": 28.25,
+      "lng": -81.35,
+      "address": "Golden Oak Parkway, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 5,
+      "maximumStay": 21,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 14,
+      "children": 8,
+      "infants": 4,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Alexandra Smith",
+      "image": "https://randomuser.me/api/portraits/women/46.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2016-04-12",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English", "Portuguese"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "28",
+    "section": 4,
+    "property_name": "Budget-Friendly Condo with Pool",
+    "title_1": "Affordable condo near theme park attractions",
+    "city": "Kissimmee",
+    "country": "United States",
+    "state": "FL",
+    "price": 95,
+    "rating": 4.45,
+    "house_rating": 4.45,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1395266309430078875/original/808709ca-add1-4503-b7ef-e7164ec58271.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzgwNzc5NDY0NTMwNTc5Nw%3D%3D/original/7bd99c07-9cc0-43f8-a7da-2d8e65f65d77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDk3NTA5MjQwNTk1ODUzNQ==/original/a114a1a0-1fc6-4d28-afed-9c2af7d0804b.jpeg?im_w=720"
+    ],
+    "description": "Great for families on a budget who still want pool access and convenience.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 3,
+    "amenities": ["Pool", "Wifi", "Kitchen", "Air conditioning", "Free parking"],
+    "location": {
+      "lat": 28.33,
+      "lng": -81.45,
+      "address": "Irlo Bronson Memorial Highway, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 6,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 3,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Daniel Wilson",
+      "image": "https://randomuser.me/api/portraits/men/37.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-09-14",
+      "responseRate": 84,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "29",
+    "section": 5,
+    "property_name": "Historic Downtown Loft with City Views",
+    "title_1": "Stylish loft in the heart of historic Richmond",
+    "city": "Richmond City",
+    "country": "United States",
+    "state": "VA",
+    "price": 165,
+    "rating": 4.78,
+    "house_rating": 4.78,
+    "filter": "Historic homes",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1468371423752279916/original/2ab86516-a85a-4757-a564-25c4feef0f0d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1126118697122417274/original/25edd06b-eb91-4ef8-b242-1ffc4d707fd8.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1389986482975741705/original/12669976-5a84-4a62-8b15-bf9d65e0b4a1.jpeg?im_w=720"
+    ],
+    "description": "Walk to museums, restaurants, and historic sites from this downtown location.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1.5,
+    "max_guests": 4,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "TV",
+      "Washer",
+      "Self check-in"
+    ],
+    "location": {
+      "lat": 37.5407,
+      "lng": -77.436,
+      "address": "West Broad Street, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 8,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Victoria Thompson",
+      "image": "https://randomuser.me/api/portraits/women/33.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-09-20",
+      "responseRate": 97,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "30",
+    "section": 5,
+    "property_name": "Elegant Victorian Home with Garden",
+    "title_1": "Beautifully restored Victorian with private garden",
+    "city": "Richmond City",
+    "country": "United States",
+    "state": "VA",
+    "price": 245,
+    "rating": 4.89,
+    "house_rating": 4.89,
+    "filter": "Historic homes",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1126118697122417274/original/25edd06b-eb91-4ef8-b242-1ffc4d707fd8.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjQ4MDEyMA%3D%3D/original/5db27b66-3e83-482b-9903-252aee074e65.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1468371423752279916/original/2ab86516-a85a-4757-a564-25c4feef0f0d.jpeg?im_w=720"
+    ],
+    "description": "Original hardwood floors and period details with modern amenities.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "BBQ grill",
+      "TV",
+      "Historic home"
+    ],
+    "location": {
+      "lat": 37.55,
+      "lng": -77.45,
+      "address": "Monument Avenue, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 12,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Charles Williams",
+      "image": "https://randomuser.me/api/portraits/men/42.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-05-15",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "31",
+    "section": 5,
+    "property_name": "Modern Apartment in Arts District",
+    "title_1": "Contemporary apartment near galleries and cafes",
+    "city": "Richmond City",
+    "country": "United States",
+    "state": "VA",
+    "price": 135,
+    "rating": 4.71,
+    "house_rating": 4.71,
+    "filter": "Trending",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1389986482975741705/original/12669976-5a84-4a62-8b15-bf9d65e0b4a1.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1126118697122417274/original/25edd06b-eb91-4ef8-b242-1ffc4d707fd8.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1174230032433717056/original/d93fb9fb-d7cc-4e48-ba3d-9fb7d1115abd.jpeg?im_w=720"
+    ],
+    "description": "Walking distance to VCU campus and local art scene.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "TV", "Self check-in"],
+    "location": {
+      "lat": 37.53,
+      "lng": -77.46,
+      "address": "West Grace Street, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 6,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Ashley Davis",
+      "image": "https://randomuser.me/api/portraits/women/27.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-03-10",
+      "responseRate": 89,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "32",
+    "section": 5,
+    "property_name": "Cozy Cottage Near James River",
+    "title_1": "Charming cottage with river access",
+    "city": "Richmond City",
+    "country": "United States",
+    "state": "VA",
+    "price": 185,
+    "rating": 4.65,
+    "house_rating": 4.65,
+    "filter": "Waterfront",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjQ4MDEyMA%3D%3D/original/5db27b66-3e83-482b-9903-252aee074e65.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1389986482975741705/original/12669976-5a84-4a62-8b15-bf9d65e0b4a1.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1468371423752279916/original/2ab86516-a85a-4757-a564-25c4feef0f0d.jpeg?im_w=720"
+    ],
+    "description": "Perfect for kayaking and riverside walks along the James River.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1.5,
+    "max_guests": 4,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Waterfront",
+      "BBQ grill",
+      "TV"
+    ],
+    "location": {
+      "lat": 37.52,
+      "lng": -77.42,
+      "address": "Riverside Drive, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Matthew Johnson",
+      "image": "https://randomuser.me/api/portraits/men/46.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-07-08",
+      "responseRate": 94,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "33",
+    "section": 5,
+    "property_name": "Stylish Penthouse with Skyline Views",
+    "title_1": "Luxury penthouse overlooking downtown Richmond",
+    "city": "Richmond City",
+    "country": "United States",
+    "state": "VA",
+    "price": 325,
+    "rating": 4.91,
+    "house_rating": 4.91,
+    "filter": "Luxe",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1174230032433717056/original/d93fb9fb-d7cc-4e48-ba3d-9fb7d1115abd.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjQ4MDEyMA%3D%3D/original/5db27b66-3e83-482b-9903-252aee074e65.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1126118697122417274/original/25edd06b-eb91-4ef8-b242-1ffc4d707fd8.jpeg?im_w=720"
+    ],
+    "description": "Floor-to-ceiling windows with panoramic city views and premium finishes.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "TV",
+      "Self check-in",
+      "City views"
+    ],
+    "location": {
+      "lat": 37.545,
+      "lng": -77.44,
+      "address": "East Main Street, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 7,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Rebecca Martinez",
+      "image": "https://randomuser.me/api/portraits/women/38.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2016-11-25",
+      "responseRate": 99,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "34",
+    "section": 5,
+    "property_name": "Historic Brownstone with Original Details",
+    "title_1": "Authentic brownstone with period architecture",
+    "city": "Richmond City",
+    "country": "United States",
+    "state": "VA",
+    "price": 205,
+    "rating": 4.82,
+    "house_rating": 4.82,
+    "filter": "Historic homes",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1468371423752279916/original/2ab86516-a85a-4757-a564-25c4feef0f0d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1174230032433717056/original/d93fb9fb-d7cc-4e48-ba3d-9fb7d1115abd.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1389986482975741705/original/12669976-5a84-4a62-8b15-bf9d65e0b4a1.jpeg?im_w=720"
+    ],
+    "description": "Walk to Capitol Square and explore Richmond's rich Civil War history.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2.5,
+    "max_guests": 6,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Free parking",
+      "Historic home",
+      "TV",
+      "Washer"
+    ],
+    "location": {
+      "lat": 37.535,
+      "lng": -77.43,
+      "address": "North 2nd Street, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 12,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 2,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Jonathan Lee",
+      "image": "https://randomuser.me/api/portraits/men/43.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2018-12-18",
+      "responseRate": 91,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "35",
+    "section": 5,
+    "property_name": "Budget-Friendly Studio Near VCU",
+    "title_1": "Compact studio perfect for solo travelers",
+    "city": "Richmond City",
+    "country": "United States",
+    "state": "VA",
+    "price": 75,
+    "rating": 4.58,
+    "house_rating": 4.58,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1389986482975741705/original/12669976-5a84-4a62-8b15-bf9d65e0b4a1.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1468371423752279916/original/2ab86516-a85a-4757-a564-25c4feef0f0d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1174230032433717056/original/d93fb9fb-d7cc-4e48-ba3d-9fb7d1115abd.jpeg?im_w=720"
+    ],
+    "description": "Great for students and budget travelers exploring Richmond.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 1,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking"],
+    "location": {
+      "lat": 37.525,
+      "lng": -77.465,
+      "address": "West Franklin Street, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 5,
+      "checkInTime": "2:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Tyler Brown",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2021-01-15",
+      "responseRate": 86,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "36",
+    "section": 6,
+    "property_name": "Modern Brooklyn Apartment with Manhattan Views",
+    "title_1": "Stylish apartment with stunning city skyline views",
+    "city": "Brooklyn",
+    "country": "United States",
+    "state": "NY",
+    "price": 285,
+    "rating": 4.83,
+    "house_rating": 4.83,
+    "filter": "City views",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1064859615471017132/original/e88f603a-9ad5-48b3-8dcf-fc621b4dde59.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305094445506176270/original/dd5d9ffd-58cb-4e9f-8359-829961824c38.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-48111735/original/b44d385c-accf-42af-8b16-27e585511901.jpeg?im_w=720"
+    ],
+    "description": "Easy subway access to Manhattan with rooftop terrace and city views.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1.5,
+    "max_guests": 4,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "TV",
+      "Washer",
+      "Self check-in",
+      "City views"
+    ],
+    "location": {
+      "lat": 40.6782,
+      "lng": -73.9442,
+      "address": "Flatbush Avenue, Brooklyn, NY"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 10,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Elena Rodriguez",
+      "image": "https://randomuser.me/api/portraits/women/30.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-06-12",
+      "responseRate": 98,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "37",
+    "section": 6,
+    "property_name": "Cozy Newark Apartment Near NYC",
+    "title_1": "Affordable apartment with easy NYC access",
+    "city": "Newark",
+    "country": "United States",
+    "state": "NJ",
+    "price": 125,
+    "rating": 4.67,
+    "house_rating": 4.67,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305094445506176270/original/dd5d9ffd-58cb-4e9f-8359-829961824c38.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-696558738505882577/original/a5556e0a-1810-422f-803e-a0da0fe17e5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1064859615471017132/original/e88f603a-9ad5-48b3-8dcf-fc621b4dde59.jpeg?im_w=720"
+    ],
+    "description": "Quick train ride to Manhattan, perfect for budget-conscious travelers.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "TV"],
+    "location": {
+      "lat": 40.7357,
+      "lng": -74.1724,
+      "address": "Broad Street, Newark, NJ"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 8,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Marcus Johnson",
+      "image": "https://randomuser.me/api/portraits/men/34.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-10-05",
+      "responseRate": 89,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "38",
+    "section": 6,
+    "property_name": "Trendy East Village Studio",
+    "title_1": "Hip studio in the heart of Manhattan",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 195,
+    "rating": 4.74,
+    "house_rating": 4.74,
+    "filter": "Trending",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-48111735/original/b44d385c-accf-42af-8b16-27e585511901.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1064859615471017132/original/e88f603a-9ad5-48b3-8dcf-fc621b4dde59.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-589156292773338843/original/3115d88c-6919-4b94-b4fb-b624ecae7b13.jpeg?im_w=720"
+    ],
+    "description": "Walk to restaurants, bars, and subway stations in vibrant East Village.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "TV", "Self check-in"],
+    "location": {
+      "lat": 40.7282,
+      "lng": -73.9942,
+      "address": "East 9th Street, New York, NY"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 7,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Sophia Chen",
+      "image": "https://randomuser.me/api/portraits/women/36.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-08-20",
+      "responseRate": 93,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Mandarin"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "39",
+    "section": 6,
+    "property_name": "Comfortable Room in Brooklyn Heights",
+    "title_1": "Private room with Brooklyn Bridge views",
+    "city": "Brooklyn",
+    "country": "United States",
+    "state": "NY",
+    "price": 85,
+    "rating": 4.61,
+    "house_rating": 4.61,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Private room",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-696558738505882577/original/a5556e0a-1810-422f-803e-a0da0fe17e5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-48111735/original/b44d385c-accf-42af-8b16-27e585511901.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305094445506176270/original/dd5d9ffd-58cb-4e9f-8359-829961824c38.jpeg?im_w=720"
+    ],
+    "description": "Shared apartment with spectacular views of Manhattan skyline.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 1,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "TV", "City views"],
+    "location": {
+      "lat": 40.6959,
+      "lng": -73.9969,
+      "address": "Remsen Street, Brooklyn, NY"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 6,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "David Kim",
+      "image": "https://randomuser.me/api/portraits/men/39.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-04-18",
+      "responseRate": 87,
+      "responseTime": "within a day",
+      "languages": ["English", "Korean"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "40",
+    "section": 6,
+    "property_name": "Spacious Newark Townhouse",
+    "title_1": "Family-friendly townhouse with parking",
+    "city": "Newark",
+    "country": "United States",
+    "state": "NJ",
+    "price": 165,
+    "rating": 4.79,
+    "house_rating": 4.79,
+    "filter": "Family friendly",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-589156292773338843/original/3115d88c-6919-4b94-b4fb-b624ecae7b13.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1064859615471017132/original/e88f603a-9ad5-48b3-8dcf-fc621b4dde59.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-696558738505882577/original/a5556e0a-1810-422f-803e-a0da0fe17e5d.jpeg?im_w=720"
+    ],
+    "description": "Multiple bedrooms and easy access to NYC via train or car.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "TV", "Washer"],
+    "location": {
+      "lat": 40.75,
+      "lng": -74.17,
+      "address": "Springfield Avenue, Newark, NJ"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 12,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 2,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Carmen Santos",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-02-14",
+      "responseRate": 96,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "41",
+    "section": 6,
+    "property_name": "Luxury Manhattan High-Rise",
+    "title_1": "Premium apartment with concierge services",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 425,
+    "rating": 4.92,
+    "house_rating": 4.92,
+    "filter": "Luxe",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305094445506176270/original/dd5d9ffd-58cb-4e9f-8359-829961824c38.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-589156292773338843/original/3115d88c-6919-4b94-b4fb-b624ecae7b13.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-48111735/original/b44d385c-accf-42af-8b16-27e585511901.jpeg?im_w=720"
+    ],
+    "description": "Doorman building with fitness center and rooftop terrace in Midtown.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Gym", "TV", "Self check-in", "Doorman"],
+    "location": {
+      "lat": 40.7589,
+      "lng": -73.9851,
+      "address": "West 42nd Street, New York, NY"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Alexander Wright",
+      "image": "https://randomuser.me/api/portraits/men/48.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-09-08",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English", "French"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "42",
+    "section": 6,
+    "property_name": "Charming Newark Studio with Skyline Views",
+    "title_1": "Compact studio with city views and modern amenities",
+    "city": "Newark",
+    "country": "United States",
+    "state": "NJ",
+    "price": 95,
+    "rating": 4.55,
+    "house_rating": 4.55,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1064859615471017132/original/e88f603a-9ad5-48b3-8dcf-fc621b4dde59.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-589156292773338843/original/3115d88c-6919-4b94-b4fb-b624ecae7b13.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-696558738505882577/original/a5556e0a-1810-422f-803e-a0da0fe17e5d.jpeg?im_w=720"
+    ],
+    "description": "Perfect for solo travelers or couples exploring NYC on a budget.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "TV"],
+    "location": {
+      "lat": 40.74,
+      "lng": -74.18,
+      "address": "Market Street, Newark, NJ"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 5,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Jessica Torres",
+      "image": "https://randomuser.me/api/portraits/women/40.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2021-05-10",
+      "responseRate": 88,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "43",
+    "section": 2,
+    "property_name": "Rustic Cabin with Mountain Views",
+    "title_1": "Cozy cabin nestled in Shenandoah Valley",
+    "city": "Shenandoah",
+    "country": "United States",
+    "state": "VA",
+    "price": 185,
+    "rating": 4.88,
+    "house_rating": 4.88,
+    "filter": "Cabins",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1071176109117690196/original/91eb6e0d-16a8-4d84-83b5-c6fb0685657d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-39777552/original/32ceffdb-9938-419b-9e07-eabb96054223.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDc3MzUxMjc3ODY2NzA0OQ==/original/cc54d5b6-4ac0-493a-8531-1e0795bb2902.jpeg?im_w=720"
+    ],
+    "description": "Perfect for hiking and exploring Shenandoah National Park trails.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1.5,
+    "max_guests": 4,
+    "amenities": ["Wifi", "Kitchen", "Free parking", "BBQ grill", "Fireplace", "Nature access"],
+    "location": {
+      "lat": 38.7849,
+      "lng": -78.1883,
+      "address": "Skyline Drive, Shenandoah, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "William Carter",
+      "image": "https://randomuser.me/api/portraits/men/50.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-03-25",
+      "responseRate": 99,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "44",
+    "section": 2,
+    "property_name": "Mountain Lodge in Dayton Valley",
+    "title_1": "Spacious lodge with panoramic mountain views",
+    "city": "Dayton",
+    "country": "United States",
+    "state": "VA",
+    "price": 225,
+    "rating": 4.91,
+    "house_rating": 4.91,
+    "filter": "Amazing views",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-39777552/original/32ceffdb-9938-419b-9e07-eabb96054223.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-914541483229463893/original/d79c4487-e4f4-408e-9c64-3ff45757b079.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1071176109117690196/original/91eb6e0d-16a8-4d84-83b5-c6fb0685657d.jpeg?im_w=720"
+    ],
+    "description": "Large deck perfect for stargazing and morning coffee with valley views.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": [
+      "Wifi",
+      "Kitchen",
+      "Free parking",
+      "BBQ grill",
+      "Fireplace",
+      "Hot tub",
+      "Nature access"
+    ],
+    "location": {
+      "lat": 38.42,
+      "lng": -79.23,
+      "address": "Natural Chimneys Road, Dayton, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 2,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Margaret Wilson",
+      "image": "https://randomuser.me/api/portraits/women/47.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2016-07-18",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "45",
+    "section": 2,
+    "property_name": "Secluded Cabin in Mount Jackson",
+    "title_1": "Private cabin surrounded by forest",
+    "city": "Mount Jackson",
+    "country": "United States",
+    "state": "VA",
+    "price": 155,
+    "rating": 4.76,
+    "house_rating": 4.76,
+    "filter": "Cabins",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDc3MzUxMjc3ODY2NzA0OQ==/original/cc54d5b6-4ac0-493a-8531-1e0795bb2902.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1071176109117690196/original/91eb6e0d-16a8-4d84-83b5-c6fb0685657d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1411314327851082277/original/25ebad45-7bb6-497c-a95d-689d34083596.jpeg?im_w=720"
+    ],
+    "description": "Peaceful retreat with hiking trails starting from your doorstep.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "amenities": ["Wifi", "Kitchen", "Free parking", "Fireplace", "Nature access", "BBQ grill"],
+    "location": {
+      "lat": 38.75,
+      "lng": -78.64,
+      "address": "Conicville Road, Mount Jackson, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 8,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Richard Anderson",
+      "image": "https://randomuser.me/api/portraits/men/41.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-05-30",
+      "responseRate": 93,
+      "responseTime": "within a few hours",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "46",
+    "section": 2,
+    "property_name": "Unique Treehouse in Verona",
+    "title_1": "One-of-a-kind treehouse experience",
+    "city": "Verona",
+    "country": "United States",
+    "state": "VA",
+    "price": 195,
+    "rating": 4.94,
+    "house_rating": 4.94,
+    "filter": "Unique stays",
+    "propertyType": "Unique space",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-914541483229463893/original/d79c4487-e4f4-408e-9c64-3ff45757b079.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDc3MzUxMjc3ODY2NzA0OQ==/original/cc54d5b6-4ac0-493a-8531-1e0795bb2902.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-39777552/original/32ceffdb-9938-419b-9e07-eabb96054223.jpeg?im_w=720"
+    ],
+    "description": "Sleep among the trees with all modern amenities and forest views.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Free parking", "Nature access", "Unique architecture"],
+    "location": {
+      "lat": 38.19,
+      "lng": -78.94,
+      "address": "Augusta Springs Road, Verona, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 5,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 0,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Emma Thompson",
+      "image": "https://randomuser.me/api/portraits/women/25.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-10-12",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "47",
+    "section": 2,
+    "property_name": "Riverside Cabin in Front Royal",
+    "title_1": "Peaceful cabin by the Shenandoah River",
+    "city": "Front Royal",
+    "country": "United States",
+    "state": "VA",
+    "price": 165,
+    "rating": 4.82,
+    "house_rating": 4.82,
+    "filter": "Waterfront",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1411314327851082277/original/25ebad45-7bb6-497c-a95d-689d34083596.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-914541483229463893/original/d79c4487-e4f4-408e-9c64-3ff45757b079.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1071176109117690196/original/91eb6e0d-16a8-4d84-83b5-c6fb0685657d.jpeg?im_w=720"
+    ],
+    "description": "Perfect for fishing, canoeing, and relaxing by the water.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1.5,
+    "max_guests": 4,
+    "amenities": ["Wifi", "Kitchen", "Free parking", "Waterfront", "BBQ grill", "Fireplace"],
+    "location": {
+      "lat": 38.92,
+      "lng": -78.19,
+      "address": "River Road, Front Royal, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 12,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Benjamin Garcia",
+      "image": "https://randomuser.me/api/portraits/men/31.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-01-20",
+      "responseRate": 95,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "48",
+    "section": 2,
+    "property_name": "Mountain View Cottage with Hot Tub",
+    "title_1": "Cozy cottage with private hot tub and mountain views",
+    "city": "Shenandoah",
+    "country": "United States",
+    "state": "VA",
+    "price": 215,
+    "rating": 4.87,
+    "house_rating": 4.87,
+    "filter": "Amazing views",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1071176109117690196/original/91eb6e0d-16a8-4d84-83b5-c6fb0685657d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1411314327851082277/original/25ebad45-7bb6-497c-a95d-689d34083596.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-39777552/original/32ceffdb-9938-419b-9e07-eabb96054223.jpeg?im_w=720"
+    ],
+    "description": "Relax in the hot tub while enjoying stunning Blue Ridge Mountain views.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "Hot tub",
+      "Wifi",
+      "Kitchen",
+      "Free parking",
+      "Nature access",
+      "BBQ grill",
+      "Fireplace"
+    ],
+    "location": {
+      "lat": 38.8,
+      "lng": -78.2,
+      "address": "Blue Ridge Parkway, Shenandoah, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 10,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Sarah Mitchell",
+      "image": "https://randomuser.me/api/portraits/women/32.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2019-08-05",
+      "responseRate": 98,
+      "responseTime": "within an hour",
+      "languages": ["English"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "49",
+    "section": 2,
+    "property_name": "Budget-Friendly Cabin for Nature Lovers",
+    "title_1": "Simple cabin perfect for outdoor enthusiasts",
+    "city": "Shenandoah",
+    "country": "United States",
+    "state": "VA",
+    "price": 95,
+    "rating": 4.68,
+    "house_rating": 4.68,
+    "filter": "Great value",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-39777552/original/32ceffdb-9938-419b-9e07-eabb96054223.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDc3MzUxMjc3ODY2NzA0OQ==/original/cc54d5b6-4ac0-493a-8531-1e0795bb2902.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-914541483229463893/original/d79c4487-e4f4-408e-9c64-3ff45757b079.jpeg?im_w=720"
+    ],
+    "description": "Basic amenities with access to hiking trails and natural beauty.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Free parking", "Nature access", "BBQ grill"],
+    "location": {
+      "lat": 38.76,
+      "lng": -78.16,
+      "address": "Caverns Road, Shenandoah, VA"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 6,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "10:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 1,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Jacob Miller",
+      "image": "https://randomuser.me/api/portraits/men/28.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-06-15",
+      "responseRate": 90,
+      "responseTime": "within a day",
+      "languages": ["English"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "50",
+    "section": 8,
+    "property_name": "Luxury Oceanfront Penthouse",
+    "title_1": "Stunning penthouse with panoramic ocean views",
+    "city": "Miami Beach",
+    "country": "United States",
+    "state": "FL",
+    "price": 485,
+    "rating": 4.96,
+    "house_rating": 4.96,
+    "filter": "Luxe",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM2MDgzNDAxMzE1NDYyMQ==/original/93259430-7485-4b10-a999-2847d1b6cee6.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-760780574806520980/original/6cb1de5a-1d89-45e6-8f72-9198fa577378.png?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1305273476678822234/original/918429ab-6d0f-4ab1-b628-b0bb0a27317a.jpeg?im_w=720"
+    ],
+    "description": "Private elevator access, rooftop pool, and world-class amenities in South Beach.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 3,
+    "max_guests": 6,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Free parking",
+      "Gym",
+      "Concierge"
+    ],
+    "location": {
+      "lat": 25.7907,
+      "lng": -80.13,
+      "address": "Ocean Drive, Miami Beach, FL"
+    },
+    "availability": {
+      "minimumStay": 4,
+      "maximumStay": 21,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "12:00 PM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 2,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Isabella Rodriguez",
+      "image": "https://randomuser.me/api/portraits/women/24.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2015-12-08",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish", "Portuguese"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "51",
+    "section": 8,
+    "property_name": "Art Deco Hotel Room in South Beach",
+    "title_1": "Stylish hotel room in historic Art Deco district",
+    "city": "Miami Beach",
+    "country": "United States",
+    "state": "FL",
+    "price": 195,
+    "rating": 4.71,
+    "house_rating": 4.71,
+    "filter": "Historic hotels",
+    "propertyType": "Hotel",
+    "roomType": "Hotel room",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-760780574806520980/original/6cb1de5a-1d89-45e6-8f72-9198fa577378.png?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53290148/original/31d920d4-1fae-49fc-824a-b1009d7a125c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM2MDgzNDAxMzE1NDYyMQ==/original/93259430-7485-4b10-a999-2847d1b6cee6.jpeg?im_w=720"
+    ],
+    "description": "Walk to Lincoln Road and enjoy the vibrant nightlife of South Beach.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Air conditioning",
+      "Beach access",
+      "Gym",
+      "Restaurant",
+      "Concierge"
+    ],
+    "location": {
+      "lat": 25.78,
+      "lng": -80.135,
+      "address": "Collins Avenue, Miami Beach, FL"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 8,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "12:00 PM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Carlos Mendoza",
+      "image": "https://randomuser.me/api/portraits/men/33.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2019-03-22",
+      "responseRate": 92,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 3
+  },
+  {
+    "id": "52",
+    "section": 8,
+    "property_name": "Modern Condo with Bay Views",
+    "title_1": "Sleek condo overlooking Biscayne Bay",
+    "city": "Miami",
+    "country": "United States",
+    "state": "FL",
+    "price": 275,
+    "rating": 4.84,
+    "house_rating": 4.84,
+    "filter": "Waterfront",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1305273476678822234/original/918429ab-6d0f-4ab1-b628-b0bb0a27317a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM2MDgzNDAxMzE1NDYyMQ==/original/93259430-7485-4b10-a999-2847d1b6cee6.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-851446039453388861/original/ca103c7d-74cd-44a2-b4c2-9a26572eb179.jpeg?im_w=720"
+    ],
+    "description": "Floor-to-ceiling windows with stunning bay and city skyline views.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Gym",
+      "Waterfront",
+      "Free parking"
+    ],
+    "location": {
+      "lat": 25.7617,
+      "lng": -80.1918,
+      "address": "Biscayne Boulevard, Miami, FL"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 12,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Natalia Santos",
+      "image": "https://randomuser.me/api/portraits/women/28.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2018-01-15",
+      "responseRate": 99,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish", "Portuguese"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "53",
+    "section": 8,
+    "property_name": "Beachfront Condo with Pool Access",
+    "title_1": "Direct beach access condo with resort amenities",
+    "city": "Miami Beach",
+    "country": "United States",
+    "state": "FL",
+    "price": 325,
+    "rating": 4.89,
+    "house_rating": 4.89,
+    "filter": "Amazing pools",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53290148/original/31d920d4-1fae-49fc-824a-b1009d7a125c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1305273476678822234/original/918429ab-6d0f-4ab1-b628-b0bb0a27317a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-760780574806520980/original/6cb1de5a-1d89-45e6-8f72-9198fa577378.png?im_w=720"
+    ],
+    "description": "Multiple pools, spa, and private beach club access included.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2.5,
+    "max_guests": 4,
+    "amenities": [
+      "Pool",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Spa",
+      "Hot tub",
+      "Gym"
+    ],
+    "location": {
+      "lat": 25.775,
+      "lng": -80.125,
+      "address": "Mid-Beach Drive, Miami Beach, FL"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Diego Fernandez",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2017-08-30",
+      "responseRate": 98,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 4
+  },
+  {
+    "id": "54",
+    "section": 8,
+    "property_name": "Stylish Studio in Wynwood Arts District",
+    "title_1": "Contemporary studio near galleries and murals",
+    "city": "Miami",
+    "country": "United States",
+    "state": "FL",
+    "price": 145,
+    "rating": 4.66,
+    "house_rating": 4.66,
+    "filter": "Trending",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-851446039453388861/original/ca103c7d-74cd-44a2-b4c2-9a26572eb179.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53290148/original/31d920d4-1fae-49fc-824a-b1009d7a125c.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIxMzM2MDgzNDAxMzE1NDYyMQ==/original/93259430-7485-4b10-a999-2847d1b6cee6.jpeg?im_w=720"
+    ],
+    "description": "Walk to art galleries, trendy restaurants, and vibrant street art.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "TV", "Self check-in"],
+    "location": {
+      "lat": 25.801,
+      "lng": -80.199,
+      "address": "Northwest 2nd Avenue, Miami, FL"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 7,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Camila Vargas",
+      "image": "https://randomuser.me/api/portraits/women/26.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-11-18",
+      "responseRate": 90,
+      "responseTime": "within a few hours",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "55",
+    "section": 8,
+    "property_name": "Luxury Villa with Private Pool",
+    "title_1": "Exclusive villa with heated pool and spa",
+    "city": "Miami Beach",
+    "country": "United States",
+    "state": "FL",
+    "price": 625,
+    "rating": 4.97,
+    "house_rating": 4.97,
+    "filter": "Luxe",
+    "propertyType": "House",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-760780574806520980/original/6cb1de5a-1d89-45e6-8f72-9198fa577378.png?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-851446039453388861/original/ca103c7d-74cd-44a2-b4c2-9a26572eb179.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1305273476678822234/original/918429ab-6d0f-4ab1-b628-b0bb0a27317a.jpeg?im_w=720"
+    ],
+    "description": "Chef's kitchen, wine cellar, and rooftop terrace with panoramic views.",
+    "bedrooms": 4,
+    "beds": 5,
+    "bathrooms": 4,
+    "max_guests": 10,
+    "amenities": [
+      "Pool",
+      "Hot tub",
+      "Wifi",
+      "Kitchen",
+      "Air conditioning",
+      "Beach access",
+      "Spa",
+      "Wine cellar"
+    ],
+    "location": {
+      "lat": 25.765,
+      "lng": -80.14,
+      "address": "Star Island Drive, Miami Beach, FL"
+    },
+    "availability": {
+      "minimumStay": 5,
+      "maximumStay": 30,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "12:00 PM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 10,
+      "children": 5,
+      "infants": 3,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Alejandro Cruz",
+      "image": "https://randomuser.me/api/portraits/men/38.jpg",
+      "isSuperhost": true,
+      "joinedDate": "2014-06-20",
+      "responseRate": 100,
+      "responseTime": "within an hour",
+      "languages": ["English", "Spanish", "Italian"]
+    },
+    "rating_count": 5
+  },
+  {
+    "id": "56",
+    "section": 8,
+    "property_name": "Budget-Friendly Apartment Near Airport",
+    "title_1": "Convenient apartment with easy airport access",
+    "city": "Miami",
+    "country": "United States",
+    "state": "FL",
+    "price": 85,
+    "rating": 4.52,
+    "house_rating": 4.52,
+    "filter": "Great value",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1305273476678822234/original/918429ab-6d0f-4ab1-b628-b0bb0a27317a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-851446039453388861/original/ca103c7d-74cd-44a2-b4c2-9a26572eb179.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53290148/original/31d920d4-1fae-49fc-824a-b1009d7a125c.jpeg?im_w=720"
+    ],
+    "description": "Perfect for short stays and early flights, with metro access to downtown.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["Wifi", "Kitchen", "Air conditioning", "Free parking", "TV"],
+    "location": {
+      "lat": 25.79,
+      "lng": -80.22,
+      "address": "Northwest 7th Street, Miami, FL"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 5,
+      "checkInTime": "2:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1,
+      "pets": 0,
+      "serviceAnimals": true
+    },
+    "host": {
+      "name": "Luis Morales",
+      "image": "https://randomuser.me/api/portraits/men/29.jpg",
+      "isSuperhost": false,
+      "joinedDate": "2020-04-25",
+      "responseRate": 87,
+      "responseTime": "within a day",
+      "languages": ["English", "Spanish"]
+    },
+    "rating_count": 6
+  },
+  {
+    "id": "101",
+    "section": 1,
+    "property_name": "Luxury Manhattan Penthouse",
+    "title_1": "Stunning penthouse with Central Park views",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 450,
+    "rating": 4.95,
+    "house_rating": 4.95,
+    "filter": "Luxury",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzgwNzc5NDY0NTMwNTc5Nw%3D%3D/original/7bd99c07-9cc0-43f8-a7da-2d8e65f65d77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1475787342280042665/original/5625e365-590e-4e30-9937-e9c8e91f7b5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDk3NTA5MjQwNTk1ODUzNQ==/original/a114a1a0-1fc6-4d28-afed-9c2af7d0804b.jpeg?im_w=720"
+    ],
+    "description": "Luxurious penthouse apartment with breathtaking Central Park views, modern amenities, and premium finishes.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Gym", "Doorman", "Elevator", "Washer"],
+    "location": {
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "address": "Central Park West, Manhattan, NY"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 30,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "102",
+    "section": 1,
+    "property_name": "Cozy Brooklyn Loft",
+    "title_1": "Industrial chic loft in trendy Williamsburg",
+    "city": "Brooklyn",
+    "country": "United States",
+    "state": "NY",
+    "price": 180,
+    "rating": 4.78,
+    "house_rating": 4.78,
+    "filter": "Trendy",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720"
+    ],
+    "description": "Stylish converted warehouse loft with exposed brick, high ceilings, and modern amenities in hip Williamsburg.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Self check-in"],
+    "location": {
+      "lat": 33.675,
+      "lng": -78.882,
+      "address": "Kings Highway, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "103",
+    "section": 1,
+    "property_name": "Times Square Studio",
+    "title_1": "Modern studio in the heart of Times Square",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 220,
+    "rating": 4.65,
+    "house_rating": 4.65,
+    "filter": "Central",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Perfect location for Broadway shows and NYC attractions. Modern studio with all amenities.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Elevator", "Self check-in"],
+    "location": {
+      "lat": 38.315,
+      "lng": -75.1,
+      "address": "Talbot Street, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 7,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1
+    }
+  },
+  {
+    "id": "104",
+    "section": 1,
+    "property_name": "SoHo Artist Loft",
+    "title_1": "Authentic artist loft in historic SoHo",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 320,
+    "rating": 4.88,
+    "house_rating": 4.88,
+    "filter": "Artistic",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Historic cast-iron building loft with original details, perfect for art lovers and creative professionals.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Elevator"],
+    "location": {
+      "lat": 28.28,
+      "lng": -81.42,
+      "address": "Old Lake Wilson Road, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 21,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "105",
+    "section": 1,
+    "property_name": "East Village Brownstone",
+    "title_1": "Charming brownstone apartment with garden",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 275,
+    "rating": 4.82,
+    "house_rating": 4.82,
+    "filter": "Historic",
+    "propertyType": "Townhouse",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Beautiful pre-war brownstone with original details, private garden, and authentic NYC charm.",
+    "bedrooms": 2,
+    "beds": 3,
+    "bathrooms": 1,
+    "max_guests": 5,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Garden", "Self check-in"],
+    "location": {
+      "lat": 37.5407,
+      "lng": -77.436,
+      "address": "West Broad Street, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 5,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "106",
+    "section": 1,
+    "property_name": "Financial District High-Rise",
+    "title_1": "Modern apartment with harbor views",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 380,
+    "rating": 4.91,
+    "house_rating": 4.91,
+    "filter": "Modern",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Luxury high-rise apartment with stunning harbor views, modern amenities, and prime Financial District location.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Gym", "Pool", "Doorman", "Elevator"],
+    "location": {
+      "lat": 38.8,
+      "lng": -78.2,
+      "address": "Blue Ridge Parkway, Shenandoah, VA"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 30,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "107",
+    "section": 1,
+    "property_name": "Chelsea Market Loft",
+    "title_1": "Spacious loft near Chelsea Market",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 295,
+    "rating": 4.76,
+    "house_rating": 4.76,
+    "filter": "Foodie",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Industrial loft in the heart of Chelsea, walking distance to High Line, Chelsea Market, and amazing restaurants.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Elevator", "Self check-in"],
+    "location": {
+      "lat": 38.75,
+      "lng": -78.64,
+      "address": "Conicville Road, Mount Jackson, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "108",
+    "section": 1,
+    "property_name": "Upper West Side Classic",
+    "title_1": "Pre-war apartment near Lincoln Center",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 340,
+    "rating": 4.89,
+    "house_rating": 4.89,
+    "filter": "Classic",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Elegant pre-war apartment with original details, near Lincoln Center, Central Park, and world-class dining.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Doorman", "Elevator"],
+    "location": {
+      "lat": 40.7831,
+      "lng": -73.9712,
+      "address": "West 72nd Street, Upper West Side, Manhattan, NY"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 21,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 1
+    }
+  },
+  {
+    "id": "109",
+    "section": 1,
+    "property_name": "Long Island City Views",
+    "title_1": "Modern apartment with Manhattan skyline views",
+    "city": "Queens",
+    "country": "United States",
+    "state": "NY",
+    "price": 160,
+    "rating": 4.72,
+    "house_rating": 4.72,
+    "filter": "Views",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Brand new apartment with stunning Manhattan skyline views, easy subway access to Midtown Manhattan.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 3,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Gym", "Pool", "Self check-in"],
+    "location": {
+      "lat": 40.7505,
+      "lng": -73.9426,
+      "address": "Court Square, Long Island City, Queens, NY"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 3,
+      "children": 1,
+      "infants": 1
+    }
+  },
+  {
+    "id": "110",
+    "section": 1,
+    "property_name": "Tribeca Warehouse Conversion",
+    "title_1": "Luxury converted warehouse in Tribeca",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 520,
+    "rating": 4.96,
+    "house_rating": 4.96,
+    "filter": "Luxury",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Stunning warehouse conversion in exclusive Tribeca with soaring ceilings, exposed brick, and luxury finishes.",
+    "bedrooms": 3,
+    "beds": 4,
+    "bathrooms": 3,
+    "max_guests": 8,
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Air conditioning",
+      "Washer",
+      "Gym",
+      "Doorman",
+      "Elevator",
+      "Fireplace"
+    ],
+    "location": {
+      "lat": 40.7195,
+      "lng": -74.0089,
+      "address": "Hudson Street, Tribeca, Manhattan, NY"
+    },
+    "availability": {
+      "minimumStay": 5,
+      "maximumStay": 30,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 8,
+      "children": 4,
+      "infants": 2
+    }
+  }
+]

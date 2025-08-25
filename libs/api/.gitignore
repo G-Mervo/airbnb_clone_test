@@ -1,0 +1,7 @@
+# Generated OpenAPI schema
+openapi.json
+
+generated/
+
+# Build output
+dist/

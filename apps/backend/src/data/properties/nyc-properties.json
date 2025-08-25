@@ -1,0 +1,452 @@
+[
+  {
+    "id": "101",
+    "section": 1,
+    "house-title": "Luxury Manhattan Penthouse",
+    "title_1": "Stunning penthouse with Central Park views",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 450,
+    "rating": 4.95,
+    "house_rating": 4.95,
+    "filter": "Luxury",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5NzgwNzc5NDY0NTMwNTc5Nw%3D%3D/original/7bd99c07-9cc0-43f8-a7da-2d8e65f65d77.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1475787342280042665/original/5625e365-590e-4e30-9937-e9c8e91f7b5d.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQyNDk3NTA5MjQwNTk1ODUzNQ==/original/a114a1a0-1fc6-4d28-afed-9c2af7d0804b.jpeg?im_w=720"
+    ],
+    "description": "Luxurious penthouse apartment with breathtaking Central Park views, modern amenities, and premium finishes.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Gym", "Doorman", "Elevator", "Washer"],
+    "location": {
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "address": "Central Park West, Manhattan, NY"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 30,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "102",
+    "section": 1,
+    "house-title": "Cozy Brooklyn Loft",
+    "title_1": "Industrial chic loft in trendy Williamsburg",
+    "city": "Brooklyn",
+    "country": "United States",
+    "state": "NY",
+    "price": 180,
+    "rating": 4.78,
+    "house_rating": 4.78,
+    "filter": "Trendy",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720"
+    ],
+    "description": "Stylish converted warehouse loft with exposed brick, high ceilings, and modern amenities in hip Williamsburg.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Self check-in"],
+    "location": {
+      "lat": 33.675,
+      "lng": -78.882,
+      "address": "Kings Highway, Myrtle Beach, SC"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "103",
+    "section": 1,
+    "house-title": "Times Square Studio",
+    "title_1": "Modern studio in the heart of Times Square",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 220,
+    "rating": 4.65,
+    "house_rating": 4.65,
+    "filter": "Central",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Perfect location for Broadway shows and NYC attractions. Modern studio with all amenities.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Elevator", "Self check-in"],
+    "location": {
+      "lat": 38.315,
+      "lng": -75.1,
+      "address": "Talbot Street, Ocean City, MD"
+    },
+    "availability": {
+      "minimumStay": 1,
+      "maximumStay": 7,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 2,
+      "children": 1,
+      "infants": 1
+    }
+  },
+  {
+    "id": "104",
+    "section": 1,
+    "house-title": "SoHo Artist Loft",
+    "title_1": "Authentic artist loft in historic SoHo",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 320,
+    "rating": 4.88,
+    "house_rating": 4.88,
+    "filter": "Artistic",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Historic cast-iron building loft with original details, perfect for art lovers and creative professionals.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Elevator"],
+    "location": {
+      "lat": 28.28,
+      "lng": -81.42,
+      "address": "Old Lake Wilson Road, Kissimmee, FL"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 21,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "105",
+    "section": 1,
+    "house-title": "East Village Brownstone",
+    "title_1": "Charming brownstone apartment with garden",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 275,
+    "rating": 4.82,
+    "house_rating": 4.82,
+    "filter": "Historic",
+    "propertyType": "Townhouse",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Beautiful pre-war brownstone with original details, private garden, and authentic NYC charm.",
+    "bedrooms": 2,
+    "beds": 3,
+    "bathrooms": 1,
+    "max_guests": 5,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Garden", "Self check-in"],
+    "location": {
+      "lat": 37.5407,
+      "lng": -77.436,
+      "address": "West Broad Street, Richmond City, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 5,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "106",
+    "section": 1,
+    "house-title": "Financial District High-Rise",
+    "title_1": "Modern apartment with harbor views",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 380,
+    "rating": 4.91,
+    "house_rating": 4.91,
+    "filter": "Modern",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Luxury high-rise apartment with stunning harbor views, modern amenities, and prime Financial District location.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Gym", "Pool", "Doorman", "Elevator"],
+    "location": {
+      "lat": 38.8,
+      "lng": -78.2,
+      "address": "Blue Ridge Parkway, Shenandoah, VA"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 30,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "107",
+    "section": 1,
+    "house-title": "Chelsea Market Loft",
+    "title_1": "Spacious loft near Chelsea Market",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 295,
+    "rating": 4.76,
+    "house_rating": 4.76,
+    "filter": "Foodie",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Industrial loft in the heart of Chelsea, walking distance to High Line, Chelsea Market, and amazing restaurants.",
+    "bedrooms": 2,
+    "beds": 2,
+    "bathrooms": 2,
+    "max_guests": 4,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Elevator", "Self check-in"],
+    "location": {
+      "lat": 38.75,
+      "lng": -78.64,
+      "address": "Conicville Road, Mount Jackson, VA"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 4,
+      "children": 2,
+      "infants": 1
+    }
+  },
+  {
+    "id": "108",
+    "section": 1,
+    "house-title": "Upper West Side Classic",
+    "title_1": "Pre-war apartment near Lincoln Center",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 340,
+    "rating": 4.89,
+    "house_rating": 4.89,
+    "filter": "Classic",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Elegant pre-war apartment with original details, near Lincoln Center, Central Park, and world-class dining.",
+    "bedrooms": 3,
+    "beds": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Washer", "Doorman", "Elevator"],
+    "location": {
+      "lat": 40.7831,
+      "lng": -73.9712,
+      "address": "West 72nd Street, Upper West Side, Manhattan, NY"
+    },
+    "availability": {
+      "minimumStay": 3,
+      "maximumStay": 21,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 6,
+      "children": 3,
+      "infants": 1
+    }
+  },
+  {
+    "id": "109",
+    "section": 1,
+    "house-title": "Long Island City Views",
+    "title_1": "Modern apartment with Manhattan skyline views",
+    "city": "Queens",
+    "country": "United States",
+    "state": "NY",
+    "price": 160,
+    "rating": 4.72,
+    "house_rating": 4.72,
+    "filter": "Views",
+    "propertyType": "Apartment",
+    "roomType": "Entire home/apt",
+    "is_new": true,
+    "isGuestFavorite": false,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwNDMyMjk4NjI3NDQ5OTAxNw==/original/316489d5-d5ce-46ee-acd9-979570f62de9.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53274539/original/365299e3-f926-47b5-b4b0-690de3d7e375.jpeg?im_w=720"
+    ],
+    "description": "Brand new apartment with stunning Manhattan skyline views, easy subway access to Midtown Manhattan.",
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "max_guests": 3,
+    "amenities": ["WiFi", "Kitchen", "Air conditioning", "Gym", "Pool", "Self check-in"],
+    "location": {
+      "lat": 40.7505,
+      "lng": -73.9426,
+      "address": "Court Square, Long Island City, Queens, NY"
+    },
+    "availability": {
+      "minimumStay": 2,
+      "maximumStay": 14,
+      "checkInTime": "4:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": true
+    },
+    "guestCapacity": {
+      "adults": 3,
+      "children": 1,
+      "infants": 1
+    }
+  },
+  {
+    "id": "110",
+    "section": 1,
+    "house-title": "Tribeca Warehouse Conversion",
+    "title_1": "Luxury converted warehouse in Tribeca",
+    "city": "New York",
+    "country": "United States",
+    "state": "NY",
+    "price": 520,
+    "rating": 4.96,
+    "house_rating": 4.96,
+    "filter": "Luxury",
+    "propertyType": "Loft",
+    "roomType": "Entire home/apt",
+    "is_new": false,
+    "isGuestFavorite": true,
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1015298186763269779/original/254a313e-cb14-4208-ae98-6abb623f7869.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI4Nzg4ODUxODQ3NTUxMjgwNg%3D%3D/original/35c3aadb-9e2e-4f41-b716-87aff1816c80.jpeg?im_w=720"
+    ],
+    "description": "Stunning warehouse conversion in exclusive Tribeca with soaring ceilings, exposed brick, and luxury finishes.",
+    "bedrooms": 3,
+    "beds": 4,
+    "bathrooms": 3,
+    "max_guests": 8,
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Air conditioning",
+      "Washer",
+      "Gym",
+      "Doorman",
+      "Elevator",
+      "Fireplace"
+    ],
+    "location": {
+      "lat": 40.7195,
+      "lng": -74.0089,
+      "address": "Hudson Street, Tribeca, Manhattan, NY"
+    },
+    "availability": {
+      "minimumStay": 5,
+      "maximumStay": 30,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "11:00 AM",
+      "instantBook": false
+    },
+    "guestCapacity": {
+      "adults": 8,
+      "children": 4,
+      "infants": 2
+    }
+  }
+]
